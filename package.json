@@ -1,0 +1,16 @@
+{
+  "name": "wikimimo",
+  "version": "1.0.0",
+  "description": "personal wiki by imgradeone",
+  "main": "index.js",
+  "author": "imgradeone",
+  "license": "MIT",
+  "scripts": {
+    "docs:dev": "vuepress dev docs",
+    "docs:build": "vuepress build docs"
+  },
+  "devDependencies": {
+    "vuepress": "^2.0.0-beta.36",
+    "vuepress-theme-hope": "^2.0.0-beta.27"
+  }
+}
