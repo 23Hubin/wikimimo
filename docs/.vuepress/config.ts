@@ -41,6 +41,7 @@ export default defineHopeConfig({
     repo: "imgradeone/wikimimo",
     repoLabel: "GitHub",
     repoDisplay: true,
+    docsBranch: "preview",
 
     navbar: [
       {
