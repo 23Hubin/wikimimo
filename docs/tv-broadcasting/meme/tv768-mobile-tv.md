@@ -7,7 +7,7 @@ copyright: CC BY-SA 4.0 协议
 本条目绝大部分内容（甚至全文）摘自 NewLifeWiki 的 [TV768手机电视](https://newlifewiki.miraheze.org/wiki/TV768手机电视) 条目，内容采用 CC BY-SA 4.0 转载，并由 WikiMimo 部分修订。
 :::
 
-**TV768 手机电视**，是由放送圈黑子 **快乐小课堂** 基于 CCTV 手机电视这一真实产品并冒充 [TV768 工作室](../self-media/tv768-studio.md) 的名义创造的梗。
+**TV768 手机电视**，是由放送圈黑子 [快乐小课堂](../weirdo/klxkt.md) 基于 CCTV 手机电视这一真实产品并冒充 [TV768 工作室](../self-media/tv768-studio.md) 的名义创造的梗。
 
 ## 简介
 
