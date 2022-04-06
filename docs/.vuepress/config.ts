@@ -1,7 +1,7 @@
 import { defineHopeConfig } from "vuepress-theme-hope";
 
 const hostname =
-  process.env.HOSTNAME || "https://wiki.g1san.cn" || "https://wiki.imgradeone.com" || "https://wiki-preview.g1san.cn";
+  process.env.HOSTNAME || "https://wiki.g1san.cn" || "https://wiki.imgradeone.com" || "https://wiki-preview.g1san.cn" || "https://www.wikimimo.com" || "https://preview.wikimimo.com";
 
 export default defineHopeConfig({
   lang: 'zh-CN',
