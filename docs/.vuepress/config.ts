@@ -15,5 +15,8 @@ export default defineHopeConfig({
     },
     themeColor: false,
     fullscreen: false,
+    displayFooter: true,
+    footer: "© 2022 imgradeone & WikiMimo",
+    copyright: "动态协议授权，以各页面为准",
   },
 });
