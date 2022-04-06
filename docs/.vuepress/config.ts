@@ -7,6 +7,16 @@ export default defineHopeConfig({
   lang: 'zh-CN',
   title: 'WikiMimo',
   description: 'A personal wiki by imgradeone',
+  head:[
+    [
+      "link",
+      {
+        rel: "stylesheet",
+        href: "//cdnjs.cloudflare.com/ajax/libs/font-awesome/6.1.1/css/all.min.css",
+      },
+    ],
+  ],
+
   theme: "hope",
   themeConfig: {
     hostname,
