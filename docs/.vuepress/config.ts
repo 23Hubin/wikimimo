@@ -51,7 +51,7 @@ export default defineHopeConfig({
       {
         text: "板块",
         icon: "grip",
-        children: ["/tv-broadcasting/"],
+        children: ["/tv-broadcasting/", "/neavetv/"],
       },
     ],
 
