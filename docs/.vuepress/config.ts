@@ -1,12 +1,19 @@
 import { defineHopeConfig } from "vuepress-theme-hope";
 
-export default defineHopeConfig({
-    lang: 'zh-CN',
-    title: 'WikiMimo',
-    description: 'Just playing around',
+const hostname =
+  process.env.HOSTNAME || "https://wikimimo.g1san.cn";
 
-    theme: '@vuepress/theme-default',
-    themeConfig: {
-      // 此处放置主题配置
+export default defineHopeConfig({
+  lang: 'zh-CN',
+  title: 'WikiMimo',
+  description: 'A personal wiki by imgradeone',
+  theme: "hope",
+  themeConfig: {
+    hostname,
+    plugins: {
+      blog: false,
     },
-  });
+    themeColor: false,
+    fullscreen: false,
+  },
+});
