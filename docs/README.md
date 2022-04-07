@@ -23,6 +23,8 @@ features:
 
 ::: warning
 WikiMimo 仍处于早期阶段，内容极为空缺。
+
+此外，WikiMimo 预览站并不代表最终更新内容，所有内容请以 wikimimo.com / wiki.g1san.cn 为准。
 :::
 
 ## WikiMimo 暂不开放用户贡献。
