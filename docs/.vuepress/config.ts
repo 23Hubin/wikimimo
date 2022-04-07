@@ -42,7 +42,7 @@ export default defineHopeConfig({
     repoLabel: "GitHub",
     repoDisplay: true,
     docsBranch: "preview",
-
+    
     navbar: [
       {
         text: "主页",

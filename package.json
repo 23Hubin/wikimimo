@@ -4,7 +4,6 @@
   "description": "personal wiki by imgradeone",
   "main": "index.js",
   "author": "imgradeone",
-  "license": "MIT",
   "scripts": {
     "docs:dev": "vuepress dev docs",
     "docs:build": "vuepress build docs"
