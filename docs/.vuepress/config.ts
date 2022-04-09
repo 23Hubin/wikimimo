@@ -44,7 +44,8 @@ export default defineHopeConfig({
     repoLabel: "GitHub",
     repoDisplay: true,
     docsBranch: "preview",
-    
+    docsDir: "docs",
+
     navbar: [
       {
         text: "主页",
