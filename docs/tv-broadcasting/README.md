@@ -19,7 +19,7 @@ copyright: CC BY-SA 4.0 协议
 - [网络自媒体](self-media/)
 - [放送圈的梗](meme/)
 - [放送圈黑子](weirdo/)
+- [诱捕器](youbuqi.md)
 
 ## 待创建条目
 
-- 诱捕器

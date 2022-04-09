@@ -24,8 +24,10 @@ export default defineHopeConfig({
 
     plugins: {
       blog: false,
+      copyright: true,
       mdEnhance: {
         footnote: true,
+        align: true,
       },
     },
 

@@ -18,11 +18,18 @@ copyright: CC BY-SA 4.0 协议
 
 - [快乐小课堂](klxkt.md)
 - [“王先生自媒体”](wxszmt.md)
+- [李益轩](liyixuan.md)
+- [强哥放送钟表迷](qiangge.md)
 - ……
 
 ## 部分待收录 / 待商榷条目
 
-- 强哥放送钟表迷
-- 李益轩
+::: warning
+本分节中包含的人物并不代表 WikiMimo 最终会进行收录，同时部分人物可能是“黑子”，但和放送圈关系不大，而需要放置在“其他条目”中。
+:::
+
 - 孤心狼大人（待商榷）
+- Indev_Classic（待商榷）
+- 五十岚一辉-Revice / Meteor-朔田流星 / 神山飞羽真-XrossSaber（待商榷）
+- 新虹Official / XMG-Official / HONG233（待商榷）
 - ……
