@@ -7,3 +7,5 @@ copyright: CC BY-SA 4.0 协议
 ## 收录条目
 
 - [TV768 手机电视](tv768-mobile-tv.md)
+- [终 制作·著作 NHK](nhk-the-end.md)
+- [东京电视台最强传说](tv-tokyo-densetsu.md)

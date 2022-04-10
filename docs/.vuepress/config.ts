@@ -61,7 +61,7 @@ export default defineHopeConfig({
 
     sidebar: {
       "/tv-broadcasting/": "structure",
-
+      "/neavetv/": "structure",
       // fallback
       "/": [
         "" /* / */,

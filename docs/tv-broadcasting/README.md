@@ -7,7 +7,7 @@ copyright: CC BY-SA 4.0 协议
 ## 概述
 
 ::: info
-本段内容二次摘自 NewLifeWiki 的 [广播电视理论基础](https://newlifewiki.miraheze.org/wiki/广播电视理论基础) 条目，原内容来源于 DiamoWiki 的 [放送文化/基本概念 分类](https://diamowiki.ga/wiki/分类:放送文化/基本概念)（dead link）的部分条目，内容均采用 CC BY-SA 4.0 转载，并由 WikiMimo 部分修订。
+本段内容二次摘自 NewLifeWiki 的 [广播电视理论基础](https://newlifewiki.miraheze.org/wiki/广播电视理论基础) 条目，原内容来源于 DiamoWiki 的 [放送文化/基本概念 分类](https://diamowiki.miraheze.org/wiki/分类:放送文化/基本概念)的部分条目，内容均采用 CC BY-SA 4.0 转载，并由 WikiMimo 部分修订。
 :::
 
 **广播电视**，又叫 **放送文化**，是目前互联网上存在的一种研究广播电视传媒相关动态及发展的兴趣爱好文化。“放送”（日语假名：ほうそう）一词源自日语，具“广播”和“播送”之意。由广播电视文化爱好者构成的圈子即为“广电文化圈”或“放送文化圈”，简称“广电圈”或“放送圈”。网络放送文化在中国大陆、日本、韩国、俄罗斯、越南及巴西等国家和地区繁荣发展。
