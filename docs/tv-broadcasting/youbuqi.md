@@ -1,5 +1,6 @@
 ---
 title: 诱捕器
+icon: bomb
 copyright: CC BY-SA 4.0 协议
 ---
 
