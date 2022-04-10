@@ -4,7 +4,7 @@ copyright: CC BY-SA 3.0 协议
 ---
 
 ::: info
-本文转自由 imgradeone 创建的 [Neave.tv Doc](https://neave.imgradeone.com/info/bilivid.html)。
+本文转自由 imgradeone 创建的 [Neave.tv Doc](https://neave.imgradeone.com/info/bilivid.html)，遵循 CC BY-SA 3.0 协议转载。
 :::
 
 ::: warning 
