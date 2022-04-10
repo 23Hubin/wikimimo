@@ -6,6 +6,8 @@ copyright: CC BY-SA 4.0 协议
 
 ::: info
 本条目绝大部分内容（甚至全文）摘自 NewLifeWiki 的 [诱捕器](https://newlifewiki.miraheze.org/wiki/诱捕器) 条目及 DiamoWiki 的 [XXX诱捕器](https://diamowiki.miraheze.org/wiki/XXX诱捕器) 条目，内容采用 CC BY-SA 4.0 转载，并由 WikiMimo 部分修订。
+
+本文提到的“诱捕器”有异于 B 站大部分人所认为的“诱捕器”，对于此类诱捕器可查阅 [@梗指南 制作的视频](https://www.bilibili.com/video/BV1Sq4y1R7oT)。
 :::
 
 ::: warning
