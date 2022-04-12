@@ -32,7 +32,7 @@ copyright: CC BY-SA 4.0 协议
 
 > [评论来源](https://www.bilibili.com/video/BV19h411d7NS?p=2#reply3520696172)
 
-## 相关二创（
+## 相关二创
 
 - [真·广东人熟悉安播广告后的样子](https://www.bilibili.com/video/BV1b54y1y7fB/)
 - [公益广告-确保广播电视设施安全运行（高清重制版）](https://www.bilibili.com/video/BV1Ff4y1B71s)（二次使用需原 UP 授权）

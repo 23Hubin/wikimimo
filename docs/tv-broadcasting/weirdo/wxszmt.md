@@ -6,7 +6,7 @@ copyright: CC BY-SA 4.0 协议
 ::: info
 本条目绝大部分内容（甚至全文）摘自 NewLifeWiki 的 [王先生自媒体](https://newlifewiki.miraheze.org/wiki/王先生自媒体) 条目，内容采用 CC BY-SA 4.0 转载，并由 WikiMimo 部分修订。
 
-为避免与目前 B 站上的“冒牌” [@王先生自媒体](https://space.bilibili.com/1374920017) 账号混淆，本条目中所有“王先生自媒体”均特指曾用 ID 为“王先生自媒体”的 B 站用户，兼康视钟表迷工作室室长 [@bili_1682005761](https://space.bilibili.com/1682005761)。
+为避免与目前 B 站上的“冒牌” [@王先生自媒体 / @bili-1682005761](https://space.bilibili.com/1374920017) 账号混淆，本条目中所有“王先生自媒体”均特指曾用 ID 为“王先生自媒体”的 B 站用户，兼康视钟表迷工作室室长 [@bili_1682005761](https://space.bilibili.com/1682005761)。
 :::
 
 ::: warning

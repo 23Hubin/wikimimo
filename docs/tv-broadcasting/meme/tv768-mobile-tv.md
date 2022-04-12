@@ -11,7 +11,7 @@ copyright: CC BY-SA 4.0 协议
 
 ## 简介
 
-TV768 手机电视最初是快乐小课堂在 2021 年 11 月 2 日以冒充 TV768 名义制作的架空（自制）广告，该广告的灵感来源是 [CCTV 手机电视广告](https://www.bilibili.com/video/BV1u3411475X)，随后 TV768 开播的[《锐观天下》节目第一期](https://www.bilibili.com/video/BV1TL4y1q7sm) 吐槽的就是“TV768 手机电视”。
+TV768 手机电视最初是快乐小课堂在 2021 年 11 月 2 日以冒充 TV768 名义制作的架空（自制）广告，该广告的灵感来源是 [CCTV 手机电视广告](https://www.bilibili.com/video/BV1u3411475X)，随后 TV768 开播的[《锐观天下》节目第一期](https://www.bilibili.com/video/BV1TL4y1q7sm) 吐槽的即为“TV768 手机电视”。
 
 11 月 7 日，BaiVideo 在 bilibili 发布了迫害性质的视频[《试试看用电视来看电视吧》](https://www.bilibili.com/video/BV1eq4y1373H)， ~~并“推出”了 TV768 电视电视，~~ 从此 TV768 手机电视及衍生梗开始被放送圈人士熟知。
 
