@@ -14,5 +14,12 @@ WikiMimo 始终坚信优质创作者的力量可以让广播电视 / 放送文�
 - BaiVideo（已退圈）
 - 美妙の二次元（已退圈）
 - MaiLi_EyE（马海）
+- 黄面包HBREAD
+- Endisk
+- 影动全球
+- BFSLEE
+- 罪的名字
+- 芒果威格（微博）
+- ~~imgradeone~~ （厚颜无耻.png）
 - ……
 

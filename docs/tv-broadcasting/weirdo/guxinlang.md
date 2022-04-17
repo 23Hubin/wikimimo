@@ -37,7 +37,7 @@ copyright: CC BY-SA 4.0 协议
 :::
 
 [孤心狼guxinlang大人 的现用 bilibili 账号](https://space.bilibili.com/57895149)  
-[其 B 站备用账号 @孤心狼传媒-GXLTV](https://space.bilibili.com/1276956316)
+[其 B 站备用账号 @孤心狼传媒-GXLTV](https://space.bilibili.com/1276956316)  
 [其微博账号之一 @孤心狼传媒工作室](https://weibo.com/u/6008076608)
 
 [^1]: [相关私信截图](https://t.me/imgradeone/168)（可能无法访问 / 由 imgradeone 存档）

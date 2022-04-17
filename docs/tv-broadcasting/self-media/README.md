@@ -13,5 +13,6 @@ copyright: CC BY-SA 4.0 协议
 ## 待收录条目
 
 - 不息传播
-- 蓝动视觉（？）
+- 蓝动 BlueMotion
+- QZCF / 钦州放送钟表迷工作室
 - ……
