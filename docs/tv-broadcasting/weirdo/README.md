@@ -59,3 +59,6 @@ copyright: CC BY-SA 4.0 协议
 - KSCF / 康钟团
 - D.C.P 剿佐军
 - 雷电团
+- SSG满天星团队（待商榷）
+- ……
+
