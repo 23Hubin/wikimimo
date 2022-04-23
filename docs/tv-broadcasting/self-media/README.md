@@ -13,10 +13,10 @@ copyright: CC BY-SA 4.0 协议
 ## 收录条目
 
 - [TV768 工作室](tv768-studio.md)
+- [不息传播](buxi.md)
 
 ## 待收录条目
 
-- 不息传播
 - 蓝动 BlueMotion
 - QZCF / 钦州放送钟表迷工作室
 - 该图片无法显示工作室（待商榷）

@@ -4581,7 +4581,7 @@ vuepress-plugin-sitemap2@2.0.0-beta.45:
     "@vuepress/utils" "2.0.0-beta.38"
     sitemap "^7.1.1"
 
-vuepress-theme-hope@^2.0.0-beta.44:
+vuepress-theme-hope@^2.0.0-beta.45:
   version "2.0.0-beta.45"
   resolved "https://registry.yarnpkg.com/vuepress-theme-hope/-/vuepress-theme-hope-2.0.0-beta.45.tgz#1564b7608f93e1e2c190cd4e6f85137e87d88742"
   integrity sha512-sAHrAo0M5lQnwinldAtwA3WNb2f22QLUt7HEiuyBKJChC0PXeTmsTp/X9xEdv1QMpCrMCq/1oQav6C1PdgtBzQ==

@@ -57,6 +57,20 @@ export default defineHopeConfig({
         icon: "grip",
         children: ["/tv-broadcasting/", "/neavetv/"],
       },
+      {
+        text: "分支",
+        icon: "code-branch",
+        children: [
+          {
+            text: "主站",
+            link: "https://www.wikimimo.com/",
+          },
+          {
+            text: "预览",
+            link: "https://preview.wikimimo.com/",
+          },
+        ],
+      },
     ],
 
     sidebar: {

@@ -21,9 +21,9 @@ copyright: CC BY-SA 4.0 协议
 - [放送圈黑子](weirdo/)
 - [诱捕器](youbuqi.md)
 - [广播电视优秀创作者](creator/)
+- [架空电视与直播频道](virtual-tv/)
 
 ## 待创建条目
 
-- 架空电视
 - 电视包装
 - 精选内容

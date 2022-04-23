@@ -10,6 +10,6 @@ Neave.tv 是由 Paul Neave 于 2006 年创建的网站，最初使用 Adobe Flas
 
 ## WikiMimo 相关条目
 
-- [Neave.tv 介绍]
+- [Neave.tv 介绍](intro.md)
 - [对于 B 站 牧草君 视频的见解](mucaojun.md)
 - [Neave.tv 现存视频列表](videolist.md)
