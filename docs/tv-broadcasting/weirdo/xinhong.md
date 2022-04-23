@@ -17,7 +17,11 @@ copyright: CC BY-SA 4.0 协议
 > —— 新虹
 
 > 四五点钟我用虹论评吐槽此视频的！！！  
-> —— 新虹 / [动态链接](https://t.bilibili.com/646608636465905686)
+> —— 新虹 / [动态链接](https://t.bilibili.com/646608636465905686) / [ta 说到的那期《虹论评》](https://v.youku.com/v_show/id_XNTg1OTQ0NDAyMA==.html)
+
+> 新虹团即将末日，本号雷电团将取消，本号制作都是不低劣行为  
+> —— 新虹 / [动态链接](https://t.bilibili.com/636716218683752464)  
+> ~~（恭喜新虹团官宣暴死！！！111）~~
 
 - 曾宣传自己是绿荫团（由 @小男孩小辉 创建的团体）成员并借此名义跳脚，但目前退出了绿荫团，并创立了新的团体“新虹团”。其甚至曾经尝试投靠“某兰团”，最终还是放弃了。
 - 和 [@孤心狼guxinlang大人](guxinlang.md) 关系密切。
@@ -47,6 +51,7 @@ copyright: CC BY-SA 4.0 协议
 鉴于新虹存在高强度查询拉黑情况的可能，并且经常参与“人口普查”（指调查别人是否拉黑某人），请尽量不要理会此用户（包括关注、点赞、拉黑等操作也尽量不要去做）。
 :::
 
-[新虹的 bilibili 账号 @XMG-Official](https://space.bilibili.com/1480058331)
+[新虹的 bilibili 账号 @XMG-Official](https://space.bilibili.com/1480058331)  
+[新虹的优酷账号 @HONG233Studio](https://i.youku.com/i/UMTM0NTE5MzExNDg=) / [备用链接](https://www.youku.com/profile/index/?uid=UMTM0NTE5MzExNDg=)
 
 [^1]: 相关评论备份截图：[1](https://t.me/imgradeone/278) / [2](https://t.me/imgradeone/281)（可能无法访问）
