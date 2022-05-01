@@ -55,7 +55,7 @@ export default defineHopeConfig({
       {
         text: "板块",
         icon: "grip",
-        children: ["/tv-broadcasting/", "/neavetv/"],
+        children: ["/tv-broadcasting/", "/neavetv/", "/web-fair/"],
       },
       {
         text: "分支",
@@ -76,6 +76,7 @@ export default defineHopeConfig({
     sidebar: {
       "/tv-broadcasting/": "structure",
       "/neavetv/": "structure",
+      "/web-fair/": "structure",
       // fallback
       "/": [
         "" /* / */,

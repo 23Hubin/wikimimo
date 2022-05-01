@@ -13,6 +13,10 @@ features:
     icon: circle-play
     details: 没有上下文的“电视台”
     link: /neavetv/
+  - title: 网络异闻录
+    icon: ghost
+    details: 无论真实世界还是网络世界的轶闻大合集
+    link: /web-fair/
 ---
 
 # hello, WikiMimo

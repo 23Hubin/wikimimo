@@ -11,7 +11,7 @@ WikiMimo 始终坚信优质创作者的力量可以让广播电视 / 放送文�
 ## 待收录作者
 
 - Nive-Diamochang
-- BaiVideo（已退圈）
+<!-- - BaiVideo（已退圈 / 暂时注释掉 / 待商榷 / 争议内容） -->
 - 美妙の二次元（已退圈）
 - 黄面包HBREAD
 - Endisk
