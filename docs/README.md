@@ -3,6 +3,7 @@ home: true
 title: 主页
 icon: house
 heroText: WikiMimo
+heroImage: logo.svg
 tagline: A personal wiki by imgradeone
 features:
   - title: 广播电视 / 放送文化
@@ -21,7 +22,7 @@ features:
 
 # hello, WikiMimo
 
-这里是 WikiMimo，由 imgradeone 搭建的个人势 Wiki，由 VuePress v2、Vercel 与 Font Awesome 提供支持。
+这里是 WikiMimo，由 imgradeone 搭建的个人势 Wiki，由 VuePress v2 + Hope 主题、Vercel 与 Font Awesome 提供支持。
 
 如果你想提前了解 WikiMimo 的最近更新内容，请前往 [preview.wikimimo.com](https://preview.wikimimo.com)。
 

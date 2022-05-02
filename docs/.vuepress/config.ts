@@ -15,12 +15,21 @@ export default defineHopeConfig({
         href: "//cdnjs.cloudflare.com/ajax/libs/font-awesome/6.1.1/css/all.min.css",
       },
     ],
+    [
+      "link",
+      {
+        rel: "icon",
+        href: "/logo-white.png",
+      },
+    ],
   ],
 
   theme: "hope",
   themeConfig: {
     hostname,
     pageInfo: false,
+
+    logo: "logo.svg",
 
     plugins: {
       blog: false,
@@ -31,7 +40,11 @@ export default defineHopeConfig({
       },
     },
 
-    themeColor: false,
+    themeColor: {
+      pink: "#fa408b",
+      purple: "#ac2cd4",
+      orange: "#fb8f06",
+    },
     fullscreen: false,
     displayFooter: true,
     footer: "© 2022 imgradeone & WikiMimo | Powered by VuePress | Hosted on Vercel",
