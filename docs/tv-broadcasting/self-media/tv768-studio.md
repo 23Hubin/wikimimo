@@ -90,7 +90,7 @@ copyright: CC BY-SA 4.0 协议
 ## 相关链接
 
 [TV768 工作室的 bilibili 账号 @TV768工作室](https://space.bilibili.com/79567067)  
-[TV768 的 YouTube 账号](https://www.youtube.com/channel/UC-nkq0LgasH4KlisdKsOO6g)  
+[TV768 的 YouTube 账号](https://www.youtube.com/channel/UC-nkq0LgasH4KlisdKsOO6g)（暂停运营）  
 [~~由 BaiVideo 提供支持的 TV768 直播频道 B 站直播间~~](https://live.bilibili.com/10502566)（已解除合作）  
 [TV768 工作室 B 站自有直播间](https://live.bilibili.com/6674145)（至少在 2023 年才会迁移至此）
 
