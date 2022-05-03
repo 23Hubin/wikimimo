@@ -10,9 +10,9 @@ WikiMimo 始终坚信优质创作者的力量可以让广播电视 / 放送文�
 
 ## 待收录作者
 
-- Nive-Diamochang
-<!-- - BaiVideo（已退圈 / 暂时注释掉 / 待商榷 / 争议内容） -->
+- Diamochang
 - 美妙の二次元（已退圈）
+- MaiLi_EyE（马海 / 待商榷）
 - 黄面包HBREAD
 - Endisk
 - 影动全球
@@ -22,5 +22,5 @@ WikiMimo 始终坚信优质创作者的力量可以让广播电视 / 放送文�
 - 芒果威格（微博）
 - ~~imgradeone~~ （厚颜无耻.png）
 - ……
-<!-- - MaiLi_EyE（马海） -->
+<!-- - BaiVideo（已退圈 / 暂时注释掉 / 待商榷 / 争议内容） -->
 

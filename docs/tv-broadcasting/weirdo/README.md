@@ -24,15 +24,15 @@ copyright: CC BY-SA 4.0 协议
 - [孤心狼guxinlang大人](guxinlang.md)
 - [新虹 / HONG233](xinhong.md)
 - [Indev_Classic](indev-classic.md) / LoveLive出版的剪辑 / 南方公园与LL
-- 五十岚一辉-Revice / Meteor-朔田流星 / 神山飞羽真-XrossSaber / 新檀黎斗-beta
 - ……
 
 ## 部分待收录 / 待商榷条目
 
 ::: warning
-本分节中包含的人物并不代表 WikiMimo 最终会进行收录，同时部分人物可能是“黑子”，但和放送圈关系不大，而需要放置在“其他条目”中。
+本分节中包含的人物并不代表 WikiMimo 最终会进行收录，同时部分人物可能是“黑子”，但和放送圈关系不大，而需要放置在“其他分类”（网络异闻录/怪人与黑子）中。
 :::
 
+- 五十岚一辉-Revice / Meteor-朔田流星 / 神山飞羽真-XrossSaber / 新檀黎斗-beta
 - WATER水源 / 水源的水源1 / ワテリィさてる
 - ~~笑脸星球_saly~~ （误 / 天文圈关放送圈屁事）
 - “第七号台风查帕卡有蓝屏死机” （“有蓝屏死机”圈）
