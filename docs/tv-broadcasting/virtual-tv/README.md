@@ -21,9 +21,11 @@ copyright: CC BY-SA 4.0 协议
 - 喜羊羊广播电视总台
   - 喜羊羊电视台
 - Linex TV（？）
+- CarrotTV / 萝卜电视（？）
 - ……
 
 ## 待收录直播频道条目
 
 - TV768 直播频道
+- NLW.TV
 - ……

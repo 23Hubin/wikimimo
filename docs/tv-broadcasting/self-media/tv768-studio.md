@@ -52,9 +52,10 @@ copyright: CC BY-SA 4.0 协议
 - 9月14日 校园生活 Vlog 节目《学园日记》开播。
 - 10月2日 旅游类节目《探广西》开播，同日，TV768 旗下子工作室钦防钟社成立。
 - 11月2日 吐槽类节目《锐观天下》开播，成为了继《食饮汇》之后的另一个招牌节目。
-- 11月13日 TV768直播频道开始在 [BaiVideo 的直播间](https://live.bilibili.com/10502566)试播，12 月 10 日正式开播。
+- 11月13日 TV768 直播频道开始在 [BaiVideo 的直播间](https://live.bilibili.com/10502566) 试播，12 月 10 日正式开播。
 - 12月10日 TV768 工作室室长宣布不再以“放送文化”的身份参与网络社交活动，转为“广播电视爱好者”，并不再更新架空电视。[^1]
-- 12月12日 TV768 工作室注册 YouTube 账号，但 12 月 27 日账号被盗，同日注册了 [新的 YouTube 账号](https://www.youtube.com/channel/UC-nkq0LgasH4KlisdKsOO6g)。[^2]
+- 12月12日 TV768 工作室开通 YouTube 账号，但 12 月 27 日账号被盗，同日注册了 [新的 YouTube 账号](https://www.youtube.com/channel/UC-nkq0LgasH4KlisdKsOO6g)。[^2]实际上这个账号是由 BaiVideo 注册并运营的。[^a]
+- 12月31日 TV768 发布 2022 年 Logo 整体包装。该包装由 BaiVideo 制作，其中结合了 MBC 包装的要素。该包装用于直播频道。
 
 ### 2022 年
 - 1月1日 TV768 第三次改版。
@@ -63,11 +64,13 @@ copyright: CC BY-SA 4.0 协议
 - 3月8日 TV768 旗下子工作室钦防钟社正式停止活动并解散。[^3]
 - 3月13日 [TV768 手机电视 Android 客户端](http://tv768.huoyinetwork.cn)正式上线。
 - 3月24日 《锐观天下·番外篇》开播。
-- 3月31日 TV768 在愚人节期间“改名”为 TV867。
+- ~~3月31日 TV768 在愚人节期间“改名”为 TV867。~~
 - 4月1日 《锐观天下》正式改版，从之前的纯粹吐槽放送圈（Juan）黑子，变身为综合吐槽类节目。
 - 4月3日 TV768 正式启动精彩月活动第三季，持续到 5 月 8 日。
 - 4月4日 TV768 旗下子工作室 SSE 生活娱乐传播正式成立，但目前在 bilibili 并无相关账号，不过目前《食饮汇》等部分节目片尾已经有 SSE 的版权卡了。[^4]
 - 5月1日 TV768 正式宣布断绝与 BaiVideo 的一切合作。（详情可见 WikiMimo [网络异闻录/事件集/TV768 与 BaiVideo 解除合作事件](/web-fair/event/tv768-baiv.md) 条目）
+- 5月7日 TV768 工作室更换第五代 Logo。新 Logo 依旧由该无（该图片无法显示传媒）设计，并结合了第四代与第一代 Logo 的元素。
+- 5月8日 受到 [与 BaiVideo 解除合作事件](/web-fair/event/tv768-baiv.md) 影响，TV768 [再次更换新包装](https://www.bilibili.com/video/BV1oL4y1c77e)，该包装由 TV768、郭同学（@郭同学_Guotalk）与该无合作设计。该包装将用于直播频道。
 
 ## 节目
 
@@ -98,3 +101,4 @@ copyright: CC BY-SA 4.0 协议
 [^2]: 来源：[账号被盗动态](https://t.bilibili.com/608853936816587116) / [新号注册动态](https://t.bilibili.com/608896882199148107)
 [^3]: [公告来源](https://t.bilibili.com/635044561564991488)
 [^4]: [公告来源](https://t.bilibili.com/644946570007019561)
+[^a]: [一条能证明该 YouTube 账号是由 BaiVideo 管理的动态](https://t.bilibili.com/603375405387947263)

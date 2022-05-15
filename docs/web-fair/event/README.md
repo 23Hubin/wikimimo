@@ -11,3 +11,4 @@ copyright: CC BY-SA 4.0 协议
 
 - “小伙伴们哈”事件
 - “放送圈小鬼”集体网暴 @花园多惠Official 事件
+- A-SOUL “5.10事件”
