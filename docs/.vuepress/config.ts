@@ -1,9 +1,10 @@
-import { defineHopeConfig } from "vuepress-theme-hope";
+import { defineUserConfig } from "vuepress";
+import { hopeTheme } from "vuepress-theme-hope";
 
 const hostname =
   process.env.HOSTNAME || "https://wiki.g1san.cn" || "https://wiki.imgradeone.com" || "https://wiki-preview.g1san.cn" || "https://www.wikimimo.com" || "https://preview.wikimimo.com";
 
-export default defineHopeConfig({
+export default defineUserConfig({
   lang: 'zh-CN',
   title: 'WikiMimo',
   description: 'A personal wiki by imgradeone',
@@ -24,8 +25,7 @@ export default defineHopeConfig({
     ],
   ],
 
-  theme: "hope",
-  themeConfig: {
+  theme: hopeTheme({
     hostname,
     pageInfo: false,
 
@@ -95,5 +95,5 @@ export default defineHopeConfig({
         "" /* / */,
       ],
     },
-  },
+  },),
 });
