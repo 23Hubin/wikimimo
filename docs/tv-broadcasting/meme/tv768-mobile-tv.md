@@ -19,16 +19,16 @@ TV768 手机电视最初是快乐小课堂在 2021 年 11 月 2 日以冒充 TV7
 
 ## 迫害
 
-11 月 7 日，BaiVideo 在 bilibili 发布了迫害性质的视频[《试试看用电视来看电视吧》](https://www.bilibili.com/video/BV1eq4y1373H)， ~~并“推出”了 TV768 电视电视，~~ 从此 TV768 手机电视及衍生梗开始被放送圈人士熟知。
+11 月 7 日，BaiVideo 在 bilibili 发布了迫害性质的视频[《试试看用电视来看电视吧》](https://www.bilibili.com/video/BV1eq4y1373H)， ~~并“推出”了 TV768 电视电视，~~ 从此 TV768 手机电视及衍生梗开始被放送圈人士（包括不知道这是反讽的黑子（））熟知。
 
-12 月 10 日，TV768 工作室直球反客为主，发布了视频《[快乐小课堂手机电视开播了!（](https://www.bilibili.com/video/BV1z34y1X75W/)》。
+12 月 10 日，TV768 工作室反客为主，发布了视频《[快乐小课堂手机电视开播了!（](https://www.bilibili.com/video/BV1z34y1X75W/)》。
 
 2022 年 3 月 13 日，真·[TV768 手机电视 Android 版 App](https://t.bilibili.com/637049430832316423) 正式上线并开播。
 
 ## 后传
 
 - 2021 年 11 月 8 日，快乐小课堂投稿了 TV768 手机电视的新版广告（[引用《锐观天下》：手 机 电 视 之 新 作](https://www.bilibili.com/video/BV1Xb4y187Re)），新的广告是由原来的小度智能屏广告加上香港 TVB Hands Up 某期节目的片段缝合而成。
-- 2022 年 1 月 26 日，快乐小课堂基于 CCTV 微视广的宣传告，冒充 QZCF（钦州放送钟表迷工作室）投稿了《[QZCF微视App宣传片](https://www.bilibili.com/video/BV1eu41117Ff)》。
+- 2022 年 1 月 26 日，快乐小课堂基于 CCTV 微视的宣传广告，冒充 QZCF（钦州放送钟表迷工作室）投稿了《[QZCF微视App宣传片](https://www.bilibili.com/video/BV1eu41117Ff)》。
 
 ## 原文
 
