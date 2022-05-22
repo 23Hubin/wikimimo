@@ -54,7 +54,7 @@ copyright: CC BY-SA 4.0 协议
 - 11月2日 吐槽类节目《锐观天下》开播，成为了继《食饮汇》之后的另一个招牌节目。
 - 11月13日 TV768 直播频道开始在 [BaiVideo 的直播间](https://live.bilibili.com/10502566) 试播，12 月 10 日正式开播。
 - 12月10日 TV768 工作室室长宣布不再以“放送文化”的身份参与网络社交活动，转为“广播电视爱好者”，并不再更新架空电视。[^1]
-- 12月12日 TV768 工作室开通 YouTube 账号，但 12 月 27 日账号被盗，同日注册了 [新的 YouTube 账号](https://www.youtube.com/channel/UC-nkq0LgasH4KlisdKsOO6g)。[^2]实际上这个账号是由 BaiVideo 注册并运营的。[^a]
+- 12月12日 TV768 工作室开通 YouTube 账号，但 12 月 27 日账号被盗，同日注册了 [新的 YouTube 账号](https://www.youtube.com/channel/UC-nkq0LgasH4KlisdKsOO6g)。[^2]实际上这些账号是由 BaiVideo 注册并运营的。[^a]
 - 12月31日 TV768 发布 2022 年 Logo 整体包装。该包装由 BaiVideo 制作，其中包含了 MBC 包装的要素。该包装用于直播频道。
 
 ### 2022 年

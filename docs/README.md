@@ -41,13 +41,15 @@ WikiMimo 仍处于早期阶段，内容极为空缺。
 
 - 广播电视 / 放送文化
 - Neave.tv
-- ...
+- 网络异闻录
+- ……
 
 ## 无关紧要的免责声明
 
-WikiMimo 与 COGNOSPHERE 和 HoYoverse 旗下 HoYoLab 的吉祥物 Mimo 完全无关。
+WikiMimo 与 COGNOSPHERE / HoYoverse 旗下 HoYoLAB 的吉祥物 Mimo 完全无关。
 
 ## 一些屁话（
 
 - [《羊驼赶快 414 XD》](/web-fair/event/)
 - [谁笑，谁就是麻辣香猪。](/neavetv/mucaojun.md)
+- [在一起 就可以](/web-fair/chaos/huawei-together.md)
