@@ -9,7 +9,7 @@ copyright: CC BY-SA 4.0 协议
 虽然 TV768 工作室目前并不以“放送文化 / 广播电视”的身份活动，但鉴于其符合 WikiMimo 对网络自媒体的定义，因此仍被归到广播电视 / 放送文化的网络自媒体条目中。
 :::
 
-::: warning
+::: danger
 本条目有涉及争议性事件的内容。
 :::
 
@@ -68,6 +68,7 @@ copyright: CC BY-SA 4.0 协议
 - 4月1日 《锐观天下》正式改版，从之前的纯粹吐槽放送圈（Juan）黑子，变身为综合吐槽类节目。
 - 4月3日 TV768 正式启动精彩月活动第三季，持续到 5 月 8 日。
 - 4月4日 TV768 旗下子工作室 SSE 生活娱乐传播正式成立，但目前在 bilibili 并无相关账号，不过目前《食饮汇》等部分节目片尾已经有 SSE 的版权卡了。[^4]
+- 4月29日-4月30日 TV768 直播频道最后一次在 BaiVideo 直播间直播，此后，BaiVideo 直播间更名为 VDS1，成为 BaiVideo 的专属直播间。
 - 5月1日 TV768 正式宣布断绝与 BaiVideo 的一切合作。（详情可见 WikiMimo [网络异闻录/事件集/TV768 与 BaiVideo 解除合作事件](/web-fair/event/tv768-baiv.md) 条目）
 - 5月7日 TV768 工作室更换第五代 Logo。新 Logo 依旧由该无（该图片无法显示传媒）设计，并结合了第四代与第一代 Logo 的元素。
 - 5月8日 受到 [与 BaiVideo 解除合作事件](/web-fair/event/tv768-baiv.md) 影响，TV768 [再次更换新包装](https://www.bilibili.com/video/BV1oL4y1c77e)，该包装由 TV768、郭同学（@郭同学_Guotalk）与该无合作设计。该包装将用于直播频道。
