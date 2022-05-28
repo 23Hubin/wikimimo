@@ -25,7 +25,7 @@ copyright: CC BY-SA 3.0 协议
 
 ## 导火索
 
-- 之前的 AngelaEnder 事件中，
+- 之前的 AngelaEnder 事件中，（卡壳，不知道情况，求帮助qwq）
 - BaiVideo 对隐私的敏感程度过低，他曾公开过自己及 TV768 等人的隐私信息。
 
 ## 嗨播时间中 BaiVideo 发表的一些争议言论
