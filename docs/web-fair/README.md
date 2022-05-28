@@ -10,7 +10,8 @@ copyright: CC BY-SA 4.0 协议
 
 - [事件集](event/)
 - [混沌之境](chaos/)
-- 怪人与黑子
+- [放送圈黑子](tv-broadcasting-weirdo/)
+- 怪人与黑子（？）
 
 ## 网络异闻录简介
 
