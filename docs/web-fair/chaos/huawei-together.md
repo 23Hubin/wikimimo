@@ -8,4 +8,6 @@ copyright: CC BY-SA 4.0 协议
 > 华为开放了相应短片的二创，并使用 [百度网盘](https://pan.baidu.com/s/1cRFo2kGxMmxDu2vxJHFfOg) 分享了原视频。  
 > https://pan.baidu.com/s/1cRFo2kGxMmxDu2vxJHFfOg 提取码：4xa3
 
-2022 年 5 月 22 日（？），“在一起，就可以”被用于支持 [TV768 工作室](/tv-broadcasting/self-media/tv768-studio.md) 及其联播网。
+2022 年 5 月 22 日，“在一起，就可以”被用于支持 [TV768 工作室](/tv-broadcasting/self-media/tv768-studio.md) 及其联播网。
+
+同日，BaiVideo 将这句话修改为“在一起，并没用”，以讽刺 TV768 联播网彼时的混乱状况。（[动态](https://t.bilibili.com/662781881246285843) / [图片存档](https://archive.ph/frVfc)）
