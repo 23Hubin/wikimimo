@@ -27,7 +27,6 @@ export default defineUserConfig({
 
   theme: hopeTheme({
     hostname,
-    pageInfo: false,
 
     logo: "logo.svg",
 
@@ -52,6 +51,7 @@ export default defineUserConfig({
     iconPrefix: "fa-solid fa-",
 
     author: "imgradeone & WikiMimo",
+    pageInfo: false,
 
     repo: "imgradeone/wikimimo",
     repoLabel: "GitHub",

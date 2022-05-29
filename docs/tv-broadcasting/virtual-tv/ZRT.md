@@ -1,6 +1,8 @@
 ---
 title: 枕木广播电视台
 copyright: CC BY-SA 4.0 协议
+author: 23胡彬
+pageInfo: false
 ---
 
 ::: info
