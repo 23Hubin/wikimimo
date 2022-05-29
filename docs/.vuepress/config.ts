@@ -46,7 +46,7 @@ export default defineUserConfig({
     },
     fullscreen: false,
     displayFooter: true,
-    footer: "© 2022 imgradeone & WikiMimo | Powered by VuePress | Hosted on Vercel",
+    footer: "© 2022 imgradeone & WikiMimo | Powered by VuePress | Hosted on Vercel | <a href=\"https://icp.gov.moe/?keyword=20226466\" target=\"_blank\">萌ICP备20226466号</a>",
     copyright: "动态协议授权，以各页面为准",
     iconPrefix: "fa-solid fa-",
 
