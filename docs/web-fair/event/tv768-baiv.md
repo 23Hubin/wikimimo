@@ -31,7 +31,7 @@ copyright: CC BY-SA 3.0 协议
 ## 嗨播时间中 BaiVideo 发表的一些争议言论
 
 ::: info
-您可以配合 5 月 1 日嗨播时间的回放来自行查证。  
+您可以配合 4 月 30 日嗨播时间的回放来自行查证。  
 [bilibili](https://www.bilibili.com/video/BV1Tu411r78i) / [BaiVideo 使用阿里云盘分享的回放](https://www.aliyundrive.com/s/bpwXegkibQ9)
 :::
 
