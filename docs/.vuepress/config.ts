@@ -2,7 +2,7 @@ import { defineUserConfig } from "vuepress";
 import { hopeTheme } from "vuepress-theme-hope";
 
 const hostname =
-  process.env.HOSTNAME || "https://wiki.g1san.cn" || "https://wiki.imgradeone.com" || "https://wiki-preview.g1san.cn" || "https://www.wikimimo.com" || "https://preview.wikimimo.com";
+  process.env.HOSTNAME || "https://www.wikimimo.com" || "https://preview.wikimimo.com" || "https://wiki.g1san.cn" || "https://wiki.imgradeone.com" || "https://wiki-preview.g1san.cn";
 
 export default defineUserConfig({
   lang: 'zh-CN',

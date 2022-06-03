@@ -11,8 +11,6 @@ copyright: CC BY-SA 4.0 协议
 
 ::: danger
 本条目有涉及争议性事件的内容。
-
-值得一提的是，TV768 工作室账号曾名为“妮可粉222”，此时的“妮可粉222”为放送圈黑子，但鉴于如今 TV768 脱离黑子化，WikiMimo 不会将其归类为黑子，但仍然会在此留下事实记录。
 :::
 
 **TV768 工作室**，成立于 2019 年 8 月 1 日，是位于广西钦州的个人势网络自媒体工作室，旗下有《食饮汇》、《锐观天下》、《沙雕时刻》等节目，另外，旗下还拥有粉丝交流群组星雨团（原星耀团）。其推出的节目也对其他新兴网络自媒体产生了影响。
@@ -57,7 +55,7 @@ copyright: CC BY-SA 4.0 协议
 - 11月13日 TV768 直播频道开始在 [BaiVideo 的直播间](https://live.bilibili.com/10502566) 试播，12 月 10 日正式开播。
 - 12月10日 TV768 工作室室长宣布不再以“放送文化”的身份参与网络社交活动，转为“广播电视爱好者”，并不再更新架空电视。[^1]
 - 12月12日 TV768 工作室开通 YouTube 账号，但 12 月 27 日账号被盗，同日注册了 [新的 YouTube 账号](https://www.youtube.com/channel/UC-nkq0LgasH4KlisdKsOO6g)。[^2]实际上这些账号是由 BaiVideo 注册并运营的。[^a]
-- 12月31日 TV768 发布 2022 年 Logo 整体包装。该包装由 BaiVideo 制作，其中包含了 MBC 包装的要素。该包装用于直播频道。
+- 12月31日 TV768 发布 2022 年 Logo 整体包装。该包装由 BaiVideo 制作，其中包含了 MBC 包装的要素。该包装用于直播频道与节目。
 
 ### 2022 年
 - 1月1日 TV768 第三次改版。
@@ -73,7 +71,19 @@ copyright: CC BY-SA 4.0 协议
 - 4月29日-4月30日 TV768 直播频道最后一次在 BaiVideo 直播间直播，此后，BaiVideo 直播间更名为 VDS1，成为 BaiVideo 的专属直播间。
 - 5月1日 TV768 正式宣布断绝与 BaiVideo 的一切合作。（详情可见 WikiMimo [网络异闻录/事件集/TV768 与 BaiVideo 解除合作事件](/web-fair/event/tv768-baiv.md) 条目）
 - 5月7日 TV768 工作室更换第五代 Logo。新 Logo 依旧由该无（该图片无法显示传媒）设计，并结合了第四代与第一代 Logo 的元素。
-- 5月8日 受到 [与 BaiVideo 解除合作事件](/web-fair/event/tv768-baiv.md) 影响，TV768 [再次更换新包装](https://www.bilibili.com/video/BV1oL4y1c77e)，该包装由 TV768、郭同学（@郭同学_Guotalk）与该无合作设计。该包装将用于直播频道。
+- 5月8日 受到 [与 BaiVideo 解除合作事件](/web-fair/event/tv768-baiv.md) 影响，TV768 [再次更换新包装](https://www.bilibili.com/video/BV1oL4y1c77e)，该包装由 TV768、郭同学（@郭同学_Guotalk）与该无合作设计。该包装用于直播频道与节目。
+- 6月1日 TV768 正式宣布断绝与火毅网络的一切合作，并宣布事件结束。（详情可见 WikiMimo [网络异闻录/事件集/TV768 与 BaiVideo 解除合作事件](/web-fair/event/tv768-baiv.md) 条目）
+- 6月1日 TV768 正式开启 3 周年庆祝活动。
+
+## Logo 标志
+
+::: info
+图片内容引用自 NewLifeWiki。
+:::
+
+| 2022                                                         | 2021                                                         |
+| ------------------------------------------------------------ | ------------------------------------------------------------ |
+| ![TV768 2022（第五代）Logo](/pic/tv768-studio/logo-2022.png) | ![TV768 2021（第四代）Logo](/pic/tv768-studio/logo-2021.png) |
 
 ## 节目
 
@@ -99,6 +109,10 @@ copyright: CC BY-SA 4.0 协议
 [TV768 的 YouTube 账号](https://www.youtube.com/channel/UC-nkq0LgasH4KlisdKsOO6g)（暂停运营）  
 [~~由 BaiVideo 提供支持的 TV768 直播频道 B 站直播间~~](https://live.bilibili.com/10502566)（已解除合作）  
 [TV768 工作室 B 站自有直播间](https://live.bilibili.com/6674145)（~~至少在 2023 年才会迁移至此~~ 没多久就能迁移了）
+
+::: details 一些本来想在开头标，但还是放回文末的内容
+值得一提的是，TV768 工作室账号曾名为“妮可粉222”，此时的“妮可粉222”为放送圈黑子，但鉴于如今 TV768 脱离黑子化，WikiMimo 不会将其归类为黑子，但仍然会在此留下事实记录。
+:::
 
 [^1]: [公告来源](https://t.bilibili.com/602475081460894828)
 [^2]: 来源：[账号被盗动态](https://t.bilibili.com/608853936816587116) / [新号注册动态](https://t.bilibili.com/608896882199148107)
