@@ -19,7 +19,7 @@ Neave.tv 是由 Paul Neave 于 2006 年创建的网站，最初使用 Adobe Flas
 
 2006 年 8 月，Neave.tv 正式公开，最早期的 Neave.tv 支持自行选择视频、调节音量、控制暂停，视频内容包括 Short Films（短电影 / 微电影）、Technology（科技）、Subversive（颠覆性）、Music（音乐）和 Weird（古怪）五大类别。此时的 Neave.tv 是真正意义上的“电视”，拥有优秀的交互和操作逻辑，十分 creative，除了网速和电脑配置要求，在那个年代着实吃紧。关于最早期的 Neave.tv，你可以查看 [此 YouTube 视频](https://www.youtube.com/watch?v=XnuCnOq8mAc) 来了解更多。
 
-但是，这一切在 2008 年 5 月改变了。在这一年，Neave.tv 做出了大改版，彻底删去了 Short Films、Technology、Subversive、Music 这四大板块的视频（基本上全部被删除），同时 Weird 分类的一部分视频也被删除。改版后的 Neave.tv 无法自主选择视频，也无法控制音量和暂停，只能通过点击鼠标来强行换台，等待下一个奇怪的随机视频的到来，还可能跳出什么奇怪的图片，slogan 也从 `Creativity in a telly stylee` 变为 `telly without context`，页面也搬迁至 neave.com/television。从此，Neave.tv 正式开启了自己“诡异沙雕奇怪的视频网站”的历程，操作逻辑和现在的版本一样。
+但是，这一切在 2008 年 5 月改变了。在这一年，Neave.tv 做出了大改版，彻底删去了 Short Films、Technology、Subversive、Music 这四大版块的视频（基本上全部被删除），同时 Weird 分类的一部分视频也被删除。改版后的 Neave.tv 无法自主选择视频，也无法控制音量和暂停，只能通过点击鼠标来强行换台，等待下一个奇怪的随机视频的到来，还可能跳出什么奇怪的图片，slogan 也从 `Creativity in a telly stylee` 变为 `telly without context`，页面也搬迁至 neave.com/television。从此，Neave.tv 正式开启了自己“诡异沙雕奇怪的视频网站”的历程，操作逻辑和现在的版本一样。
 
 2011 年，Neave.tv 删除了 3 个视频 —— Diarrhea、Almost Real 和 Pjotro，同时图片闪出的频率也减小了。（似乎 Aerosol Suicide 这个视频也是受害者之一）
 
