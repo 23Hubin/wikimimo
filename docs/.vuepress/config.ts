@@ -29,9 +29,7 @@ export default defineUserConfig({
 
   plugins: [
     redirectPlugin({
-      config: {
-        "/tv-broadcasting/weirdo/": "/web-fair/tv-broadcasting-weirdo/",
-      },
+
     }),
   ],
 
