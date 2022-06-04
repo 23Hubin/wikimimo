@@ -2,6 +2,7 @@
 title: 事件集
 icon: calendar
 copyright: CC BY-SA 4.0 协议
+editLink: false
 ---
 
 ## 收录事件

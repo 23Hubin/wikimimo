@@ -2,6 +2,7 @@
 title: 网络异闻录
 icon: ghost
 copyright: CC BY-SA 4.0 协议
+editLink: false
 ---
 
 你好，欢迎来到 WikiMimo 网络异闻录。

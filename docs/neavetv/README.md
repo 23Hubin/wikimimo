@@ -2,6 +2,7 @@
 title: Neave.tv
 icon: circle-play
 copyright: CC BY-SA 3.0 协议
+editLink: false
 ---
 
 ## 概述

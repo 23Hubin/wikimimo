@@ -2,6 +2,7 @@
 title: 架空电视与直播频道
 icon: cloud
 copyright: CC BY-SA 4.0 协议
+editLink: false
 ---
 
 ## 架空电视介绍

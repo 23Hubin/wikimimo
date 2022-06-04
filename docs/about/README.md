@@ -2,6 +2,7 @@
 title: 关于 WikiMimo
 icon: circle-info
 copyright: CC BY-SA 4.0 协议
+editLink: false
 ---
 
 WikiMimo 创建于 2022 年 3 月 27 日，正式上线于 4 月 6 日，是一个使用 VuePress v2 驱动的、以探索兴趣领域为核心的个人势 Wiki，旨在记录互联网（和现实）上“小众”的内容，并形成一个有体系的“记事本兼资料库”。

@@ -2,6 +2,7 @@
 title: 网络自媒体
 icon: users
 copyright: CC BY-SA 4.0 协议
+editLink: false
 ---
 
 本分类下的网络自媒体指代的是 **视频内容及包装已经形成类似于一般电视台的体系，且相对有组织性**（即便是个人运营）的网络自媒体。

@@ -3,6 +3,7 @@ title: 放送圈黑子（已迁移）
 icon: circle-exclamation
 copyright: CC BY-SA 4.0 协议
 redirectTo: /web-fair/tv-broadcasting-weirdo/
+editLink: false
 ---
 
 ::: info

@@ -2,6 +2,7 @@
 title: 放送圈的梗
 icon: face-grin-squint-tears
 copyright: CC BY-SA 4.0 协议
+editLink: false
 ---
 
 ## 收录条目
