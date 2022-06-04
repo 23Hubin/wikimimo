@@ -24,13 +24,13 @@ editLink: false
 ## 架空电视条目
 
 - [枕木广播电视台](zrt.md)
+- [CarrotTV](carrottv.md) / 萝卜电视
 
 ## 待收录架空电视条目
 
 - 喜羊羊广播电视总台
   - 喜羊羊电视台
 - Linex TV（？）
-- CarrotTV / 萝卜电视（？）
 - ……
 
 ## 待收录直播频道条目

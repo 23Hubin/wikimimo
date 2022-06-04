@@ -1,6 +1,7 @@
 ---
 title: TV768 手机电视
 copyright: CC BY-SA 4.0 协议
+redirectFrom: /tv-broadcsting/meme/tv768-mobile-tv.html
 ---
 
 ::: info
