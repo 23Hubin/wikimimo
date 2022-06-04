@@ -45,7 +45,7 @@ WikiMimo 虽然是由我（imgradeone）一个人独立运营的 Wiki，但我�
 - [NewLifeWiki](https://newlifewiki.miraheze.org)（CC BY-SA 4.0）
 - [DiamoWiki](https://diamowiki.miraheze.org)（CC BY-SA 4.0）
 - 小男孩小辉
-- BaiVideo（？）
+- BaiVideo
 
 ### 特别鸣谢
 - Mr. Hope（VuePress Hope 主题开发者兼 VuePress 官方团队成员）及 Hope 主题的贡献者

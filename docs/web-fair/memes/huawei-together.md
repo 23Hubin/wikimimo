@@ -1,6 +1,7 @@
 ---
 title: 在一起 就可以
 copyright: CC BY-SA 4.0 协议
+redirectFrom: /web-fair/chaos/huawei-together.html
 ---
 
 ::: info

@@ -11,7 +11,7 @@ editLink: false
 目前，您可以通过 GitHub Pull Request 或联系提议的方式向 WikiMimo 提议、贡献。
 
 ::: warning
-无论如何，在向 WikiMimo 提交贡献时，请务必首先阅读内容与代码规范、[注意事项](#注意事项) 和防破坏屏蔽方针。
+无论如何，在向 WikiMimo 提交贡献时，请务必首先阅读 [注意事项](#注意事项) 和 [防破坏屏蔽方针](#防破坏屏蔽方针)。<!-- 内容与代码规范 待补充 -->
 :::
 
 ### GitHub Pull Request / 直接编辑已有条目（推荐）
@@ -50,7 +50,42 @@ editLink: false
 
 ### 通用注意事项
 - 你的贡献必须具有建设性。如果涉及事件，请 **尽可能多地提供证据内容**，包括但不限于网页链接、聊天记录截图，并尽可能使用诸如 [Wayback Machine](https://web.archive.org) 或 [Archive.today](https://archive.ph) 等存档服务来提前备份内容。
-- 请不要做出虚假的、恶意的、无用的、辱骂他人的、违反中国大陆法律的、无端“架空”的贡献。（“架空”这一点，除非是架空电视（））
-- 即使你被列为“黑子”，你仍旧可以向 WikiMimo 做出贡献，但我 **只接受合理的提议、诉求与贡献**，而有关解除黑名单、删除条目、破坏条目的请求，我会一律拒绝。
+- 请不要做出虚假的、恶意（包括恶意夸大化）的、无用的、辱骂他人的、违反中国大陆法律的、无端“架空”的贡献。（“架空”这一点，除非是架空电视（））
+- 即使你被列为“黑子”，你仍旧可以向 WikiMimo 做出贡献，但我 **只接受合理的、以事实为本的提议、诉求与贡献**，而有关解除黑名单、删除条目、破坏条目的请求，我会一律拒绝，同样，我更不欢迎刷屏请求，详见 [防破坏屏蔽方针](#防破坏屏蔽方针)。
+- **请不要将所谓“放送圈”的任何破事丢到 广播电视 / 放送文化 分类。**（包括与广播电视 / 网络自媒体完全搭不上边，或者与黑子有关的恶性内容）  
+  如果你真的很想这么做，首先，请好好想想，什么是“放送文化”？“放送文化”爱好者到底该做些什么？等你想好了这个问题之后，您可以考虑将条目加入到“网络异闻录”下的“混沌之境”分类，然后等待我的二次评判。
 
 ### 针对 Pull Request
+- 在执行更改之前，请务必确认自己的 Fork 是否与上游保持一致（即没有 behind X commits），并及时 Fetch Upstream（当然如果使用链接编辑就可以避免这种问题），否则合并时将很难解决冲突。同样，为减少更多潜在冲突，每次开始更改前请务必基于 `preview` 分支再新建一个分支。
+- 一切更改请基于 `preview` 分支。
+- 如果新建条目，首先请确定条目是否已经正确归类，其次请在条目文档开头补充完全 Frontmatter 信息，同时也请确定好使用的内容协议（WikiMimo 主要采用 CC BY-SA 4.0），并做好 **开放转载** 的准备。Frontmatter 示例如下：
+
+```md
+---
+title: 条目标题
+copyright: CC BY-SA 4.0 协议 # 或者 3.0
+author: 条目作者
+---
+```
+
+- 请不要对 `/docs/.vuepress/` 文件夹下的内容做任何更改，尤其是配置文件（除非你需要额外开启 Hope 主题的某一插件）。
+- 原则上我们不希望编辑者上传图片。
+- 请尽量不要大幅修改已有条目，或在同一 Pull Request 中对大量条目进行修改，这只会无限延长我的代码审核时间。
+- 建议在本地配置 Node.js 环境并安装 Yarn，同时在本地试运行自己的 Fork 代码，以确保内容正确展示。
+- 修改或创建内容时，请尽可能依照[《少数派写作排版指南》](https://sspai.com/post/37815) 和[《中文文案排版指北》](https://github.com/mzlogin/chinese-copywriting-guidelines)来规范你的内容。
+
+### 针对提议
+- 如果你在 B 站联系 @imgradeone 时发现被拉黑了，也不必灰心，请使用其他方式联系。但，还是那句话，我 **只接受合理的、以事实为本的提议、诉求与贡献**，而有关解除黑名单、删除条目、破坏条目的请求，我会一律拒绝。
+- 不要因为我没（完全）接受你的提议而刷屏骚扰或逼迫。详见 [防破坏屏蔽方针](#防破坏屏蔽方针)。
+- 提议时不要试图刷无意义内容（比如 `猴年棉花糖`、`按数字的时候，我们十年前－1`），详见 [防破坏屏蔽方针](#防破坏屏蔽方针)。<!-- 除非你很想被我踹飞或者臭骂一顿 -->
+
+## 防破坏屏蔽方针
+WikiMimo 自始至终不希望本站的内容被恶意破坏，更不希望有恶意用户持续进行一系列骚扰、破坏。因此，我们设定了如下方针。
+
+1. 在 Pull Request 或 Issue 中提交**垃圾内容或刷屏**的用户，imgradeone 将拒绝并关闭该 Pull Request 或关闭相应 Issue，并贴上 `won't merge` 和 `nonsense` 标签。单用户累计有 5 条 PR / Issue 被贴上 `nonsense` 标签后将被 imgradone 屏蔽。行为严重且违反 [GitHub 社区指导方针](https://docs.github.com/cn/site-policy/github-terms/github-community-guidelines) 者，imgradeone 也将向 GitHub 举报。  
+  被屏蔽的用户将无法继续在 GitHub 上继续与 imgradeone 执行任何互动，包括向 WikiMimo 提交代码。关于被屏蔽后不能做的事情，可参阅 [GitHub 的帮助文档](https://docs.github.com/cn/communities/maintaining-your-safety-on-github/blocking-a-user-from-your-personal-account)。
+2. 在 Pull Request 或 Issue 中提交**违背现实、夸大现实内容**的用户，imgradeone 将拒绝并关闭该 Pull Request 或关闭相应 Issue，并贴上 `won't merge` 和 `conflict` 标签，但不会计数或屏蔽。
+3. 在 Pull Request 或 Issue 中提交**辱骂他人或违法中国大陆法律内容**的用户，imgradeone 将拒绝并关闭该 Pull Request 或关闭相应 Issue，并贴上 `won't merge`、`nonsense`、`conflict`、`unfriendly` 标签，并按事态严重性选择是否屏蔽或举报。这可能是累计 3 次，也可能是直接屏蔽。
+4. **试图通过 Pull Request 破坏 WikiMimo** 的用户将直接被屏蔽，并对相应内容贴上 `won't merge`、`nonsense`、`conflict`、`unfriendly` 标签。
+5. 通过联系 imgradeone 提议时，如果出现**辱骂、胁迫、挑拨**等行为，imgradeone 将选择屏蔽，且不必告知。在你选择理性提议之前，请不要尝试更换联系方式再次提议。
+6. 对于使用本文未列出的方式向 WikiMimo 提议者，imgradeone 极有可能忽视你的提议；如果向 WikiMimo 提议邮箱内发表与 WikiMimo 无关的内容，imgradeone 也将直接无视。
