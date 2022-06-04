@@ -21,7 +21,7 @@ redirectFrom: /tv-broadcasting/weirdo/xinhong.html
 > —— 新虹 / [动态链接](https://t.bilibili.com/646608636465905686) / [ta 说到的那期《虹论评》](https://v.youku.com/v_show/id_XNTg1OTQ0NDAyMA==.html)
 
 > 新虹团即将末日，本号雷电团将取消，本号制作都是不低劣行为  
-> —— 新虹 / [动态链接](https://t.bilibili.com/636716218683752464)  
+> —— 新虹 / [动态链接](https://t.bilibili.com/636716218683752464) / [存档](https://archive.ph/X0duX)  
 > ~~（恭喜新虹团官宣暴死！！！111）~~
 
 - 曾宣传自己是绿荫团（由 @小男孩小辉 创建的团体，此团长不算黑子）成员并借此名义跳脚，但目前退出了绿荫团，并创立了新的团体“新虹团”。其甚至曾经尝试投靠“某兰团”，最终还是放弃了。
