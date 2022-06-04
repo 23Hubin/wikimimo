@@ -26,7 +26,7 @@ redirectFrom: /tv-broadcasting/weirdo/guxinlang.html
 
 ## 黑子行为
 
-> [《雷电团早就解散了》](https://t.bilibili.com/636716218683752464?tab=2#reply105257863664)
+> [《雷电团早就解散了》](https://t.bilibili.com/636716218683752464?tab=2#reply105257863664) / [存档](https://archive.ph/X0duX) （可是雷电团是 2022 年 5 月 14 日才解散的，评论是 2022 年 3 月 12 日发的）
 
 - **经常、经常、十分经常** 发起评论、私信刷屏骚扰，无论参与次数还是刷屏量都很恐怖。
 - 部分行为和语言极其迷惑，同时发评论时也很喜欢加一大排表情。
