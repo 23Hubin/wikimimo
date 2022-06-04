@@ -19,9 +19,12 @@ editLink: false
 
 - [网络自媒体](self-media/)
 - [放送圈的梗](meme/)
-- [诱捕器](youbuqi.md)
 - [广播电视优秀创作者](creator/)
 - [架空电视与直播频道](virtual-tv/)
+
+## 已迁移条目
+
+- [诱捕器](youbuqi.md)（已迁移至“网络异闻录”）
 - [放送圈黑子](/web-fair/tv-broadcasting-weirdo/)（已迁移至“网络异闻录”）
 
 ## 待创建条目
