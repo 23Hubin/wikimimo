@@ -1,6 +1,7 @@
 ---
 title: Indev_Classic
 copyright: CC BY-SA 4.0 协议
+redirectFrom: /tv-broadcasting/weirdo/indev-classic.html
 ---
 
 ::: warning
@@ -22,16 +23,17 @@ copyright: CC BY-SA 4.0 协议
 - 他是由 [@强哥放送钟表迷](qiangge.md) 创建的“雷电团”的管理员。
 - 混迹于 Gacha Club 圈。
 - 即便现在其创作视频质量不算过于低下，他也依旧保持着“黑子”的本质。
+- 其他人难以跟他正常交流。
 
 ## 黑子行为
 
 - 部分创作内容疑似“借鉴”TV768。
-- 在 2021 年经常制作 [诱捕器](/tv-broadcasting/youbuqi.md)（截至 2022 年 4 月，现存的“诱捕器”相关投稿有 18 个）。
+- 在 2021 年经常制作 [诱捕器](/tv-broadcasting/youbuqi.md)（截至 2022 年 5 月，现存的“诱捕器”相关投稿有 17 个）。
 
 ## 相关链接
 
 ::: warning
-鉴于 Indev_Classic 存在高强度查询拉黑情况的可能，或者可能参与其他“人口普查”（指调查别人是否拉黑某人）的行为，请尽量不要理会此用户（包括关注、点赞、拉黑等操作也尽量不要去做）。
+鉴于 Indev_Classic 存在高强度查询拉黑情况的可能，或者可能参与其他“人口普查”（指调查别人是否拉黑某人）的行为，请尽量不要理会此用户（包括关注、点赞、拉黑等操作也尽量不要去做）。~~当然，恐怕你也很难跟他正常交流。~~
 :::
 
 [Indev_Classic 的 bilibili 账号 @LoveLive出版的剪辑](https://space.bilibili.com/480801201)

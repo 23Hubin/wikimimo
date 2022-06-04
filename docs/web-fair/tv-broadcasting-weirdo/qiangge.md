@@ -1,6 +1,7 @@
 ---
 title: 强哥放送钟表迷
 copyright: CC BY-SA 4.0 协议
+redirectFrom: /tv-broadcasting/weirdo/qiangge.html
 ---
 
 ::: warning

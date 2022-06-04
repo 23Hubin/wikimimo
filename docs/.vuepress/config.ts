@@ -1,6 +1,8 @@
 import { defineUserConfig } from "vuepress";
 import { hopeTheme } from "vuepress-theme-hope";
 
+const { redirectPlugin } = require("vuepress-plugin-redirect");
+
 const hostname =
   process.env.HOSTNAME || "https://www.wikimimo.com" || "https://preview.wikimimo.com" || "https://wiki.g1san.cn" || "https://wiki.imgradeone.com" || "https://wiki-preview.g1san.cn";
 
@@ -23,6 +25,14 @@ export default defineUserConfig({
         href: "/logo-white.png",
       },
     ],
+  ],
+
+  plugins: [
+    redirectPlugin({
+      config: {
+        "/tv-broadcasting/weirdo/": "/web-fair/tv-broadcasting-weirdo/",
+      },
+    }),
   ],
 
   theme: hopeTheme({

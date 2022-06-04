@@ -1,18 +1,19 @@
 ---
 title: “王先生自媒体”
 copyright: CC BY-SA 4.0 协议
+redirectFrom: /tv-broadcasting/weirdo/wxszmt.html
 ---
 
 ::: info
-本条目绝大部分内容（甚至全文）摘自 NewLifeWiki 的 [王先生自媒体](https://newlifewiki.miraheze.org/wiki/王先生自媒体) 条目，内容采用 CC BY-SA 4.0 转载，并由 WikiMimo 部分修订。
+本条目绝大部分内容（甚至全文）摘自 NewLifeWiki 的 [王先生自媒体](https://newlifewiki.miraheze.org/wiki/王先生自媒体) 条目，内容采用 CC BY-SA 4.0 转载，并由 WikiMimo 部分修订。经过双方编者的修改，本条目可能和原条目有很大差别。
 
-为避免与目前 B 站上的“冒牌” [@王先生自媒体工作室 / @bili-1682005761](https://space.bilibili.com/1374920017) 账号混淆，本条目中所有“王先生自媒体”均特指曾用 ID 为“王先生自媒体”的 B 站用户，兼康视钟表迷工作室室长 [@bili_1682005761](https://space.bilibili.com/1682005761)。
+为避免与目前 B 站上的“冒牌” [@王先生自媒体工作室 / @bili-1682005761 / @月海观察](https://space.bilibili.com/1374920017) 账号混淆，本条目中所有“王先生自媒体”均特指曾用 ID 为“王先生自媒体”的 B 站用户，兼康视钟表迷工作室室长 [@bili_1682005761](https://space.bilibili.com/1682005761)。
 :::
 
 ::: warning
 本条目所描述的事件或人物具有一定的争议性，有关言论或行为请勿随意模仿。
 
-同时，由于“王先生自媒体”（再次强调不是现在的 @王先生自媒体，是 [@bili_1682005761](https://space.bilibili.com/1682005761)）已经将 imgradeone 的 B 站账号拉黑，本条目内容可能会 **不可避免地具有强烈主观性**，请谨慎采信。
+同时，由于“王先生自媒体”（再次强调不是假冒的 @王先生自媒体，是 [@bili_1682005761](https://space.bilibili.com/1682005761)）已经将 imgradeone 的 B 站账号拉黑，本条目内容可能会 **不可避免地具有强烈主观性**，请谨慎采信。
 :::
 
 **“王先生自媒体” / “康视_Official”** 是 B 站放送圈黑子之一，同时也是黑子团体康视钟表迷工作室室长。

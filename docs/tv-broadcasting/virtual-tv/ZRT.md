@@ -2,11 +2,12 @@
 title: 枕木广播电视台
 copyright: CC BY-SA 4.0 协议
 author: 23胡彬
-pageInfo: false
 ---
 
 ::: info
 本条目由 23胡彬 贡献，并由 imgradeone 重新排版。
+
+以下内容均为架空设定，请勿当真。
 :::
 
 **枕木广播电视台** 是由 23胡彬 建立的架空广播电视台，成立于 2019 年 2 月 8 日。

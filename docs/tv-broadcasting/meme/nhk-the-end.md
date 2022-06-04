@@ -4,7 +4,7 @@ copyright: CC BY-SA 4.0 协议
 ---
 
 ::: info
-本条目绝大部分内容（甚至全文）摘自 NewLifeWiki 的 [终·制作·著作NHK](https://newlifewiki.miraheze.org/wiki/终·制作·著作NHK) 条目，内容采用 CC BY-SA 4.0 转载，并由 WikiMimo 部分修订。
+本条目绝大部分内容（甚至全文）摘自 NewLifeWiki 的 [终·制作·著作NHK](https://newlifewiki.miraheze.org/wiki/终·制作·著作NHK) 条目，内容采用 CC BY-SA 4.0 转载，并由 WikiMimo 部分修订。经过双方编者的修改，本条目可能和原条目有很大差别。
 :::
 
 **终 制作·著作 NHK** 本是用于日本放送协会（NHK）在自制的节目结尾发挥版权页的作用，或许是因为 NHK 收费员经常踩点收费的原因，日本民众就逐渐将其作为一种梗来玩。一般在网上分享日常生活中尴尬或令人无语的事件时会出现。

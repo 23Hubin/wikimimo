@@ -4,7 +4,7 @@ copyright: CC BY-SA 4.0 协议
 ---
 
 ::: info
-本条目绝大部分内容（甚至全文）摘自 NewLifeWiki 的 [TV768工作室](https://newlifewiki.miraheze.org/wiki/TV768工作室) 条目，内容采用 CC BY-SA 4.0 转载，并由 WikiMimo 部分修订。（当然 imgradeone 本人也参与了该条目的贡献）
+本条目绝大部分内容（甚至全文）摘自 NewLifeWiki 的 [TV768工作室](https://newlifewiki.miraheze.org/wiki/TV768工作室) 条目，内容采用 CC BY-SA 4.0 转载，并由 WikiMimo 部分修订。经过双方编者的修改，本条目可能和原条目有很大差别。（当然 imgradeone 本人也参与了该条目的贡献）
 
 虽然 TV768 工作室目前并不以“放送文化 / 广播电视”的身份活动，但鉴于其符合 WikiMimo 对网络自媒体的定义，因此仍被归到广播电视 / 放送文化的网络自媒体条目中。
 :::

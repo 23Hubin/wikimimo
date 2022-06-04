@@ -48,8 +48,8 @@ WikiMimo 虽然是由我（imgradeone）一个人独立运营的 Wiki，但我�
 
 ### 特别鸣谢
 - Mr. Hope（VuePress Hope 主题开发者兼 VuePress 官方团队成员）及 Hope 主题的贡献者
-- Diamochang（WikiMimo 开发初期有参与分享宣传）
-- ~~王先生自媒体（并不）~~
+- [Diamochang](/tv-broadcasting/creator/diamochang.md)（WikiMimo 开发初期有参与分享宣传）
+- ~~[王先生自媒体](/web-fair/tv-broadcasting-weirdo/wxszmt.md)（并不）~~
 - 白琉
 - [Internet Archive](https://archive.org) 和 [Wayback Machine](https://web.archive.org)
 - [Archive.today](https://archive.ph)
