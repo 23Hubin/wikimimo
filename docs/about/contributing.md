@@ -82,10 +82,10 @@ author: 条目作者
 ## 防破坏屏蔽方针
 WikiMimo 自始至终不希望本站的内容被恶意破坏，更不希望有恶意用户持续进行一系列骚扰、破坏。因此，我们设定了如下方针。
 
-1. 在 Pull Request 或 Issue 中提交**垃圾内容或刷屏**的用户，imgradeone 将拒绝并关闭该 Pull Request 或关闭相应 Issue，并贴上 `won't merge` 和 `nonsense` 标签。单用户累计有 5 条 PR / Issue 被贴上 `nonsense` 标签后将被 imgradone 屏蔽。行为严重且违反 [GitHub 社区指导方针](https://docs.github.com/cn/site-policy/github-terms/github-community-guidelines) 者，imgradeone 也将向 GitHub 举报。  
+1. 在 Pull Request 或 Issue 中提交 **垃圾内容或刷屏** 的用户，imgradeone 将拒绝并关闭该 Pull Request 或关闭相应 Issue，并贴上 `won't merge` 和 `nonsense` 标签。单用户累计有 5 条 PR / Issue 被贴上 `nonsense` 标签后将被 imgradone 屏蔽。行为严重且违反 [GitHub 社区指导方针](https://docs.github.com/cn/site-policy/github-terms/github-community-guidelines) 者，imgradeone 也将向 GitHub 举报。  
   被屏蔽的用户将无法继续在 GitHub 上继续与 imgradeone 执行任何互动，包括向 WikiMimo 提交代码。关于被屏蔽后不能做的事情，可参阅 [GitHub 的帮助文档](https://docs.github.com/cn/communities/maintaining-your-safety-on-github/blocking-a-user-from-your-personal-account)。
-2. 在 Pull Request 或 Issue 中提交**违背现实、夸大现实内容**的用户，imgradeone 将拒绝并关闭该 Pull Request 或关闭相应 Issue，并贴上 `won't merge` 和 `conflict` 标签，但不会计数或屏蔽。
-3. 在 Pull Request 或 Issue 中提交**辱骂他人或违法中国大陆法律内容**的用户，imgradeone 将拒绝并关闭该 Pull Request 或关闭相应 Issue，并贴上 `won't merge`、`nonsense`、`conflict`、`unfriendly` 标签，并按事态严重性选择是否屏蔽或举报。这可能是累计 3 次，也可能是直接屏蔽。
+2. 在 Pull Request 或 Issue 中提交 **违背现实、夸大现实内容** 的用户，imgradeone 将拒绝并关闭该 Pull Request 或关闭相应 Issue，并贴上 `won't merge` 和 `conflict` 标签，但不会计数或屏蔽。
+3. 在 Pull Request 或 Issue 中提交 **辱骂他人或违法中国大陆法律内容** 的用户，imgradeone 将拒绝并关闭该 Pull Request 或关闭相应 Issue，并贴上 `won't merge`、`nonsense`、`conflict`、`unfriendly` 标签，并按事态严重性选择是否屏蔽或举报。这可能是累计 3 次，也可能是直接屏蔽。
 4. **试图通过 Pull Request 破坏 WikiMimo** 的用户将直接被屏蔽，并对相应内容贴上 `won't merge`、`nonsense`、`conflict`、`unfriendly` 标签。
-5. 通过联系 imgradeone 提议时，如果出现**辱骂、胁迫、挑拨**等行为，imgradeone 将选择屏蔽，且不必告知。在你选择理性提议之前，请不要尝试更换联系方式再次提议。
+5. 通过联系 imgradeone 提议时，如果出现 **辱骂、胁迫、挑拨** 等行为，imgradeone 将选择屏蔽，且不必告知。在你选择理性提议之前，请不要尝试更换联系方式再次提议。
 6. 对于使用本文未列出的方式向 WikiMimo 提议者，imgradeone 极有可能忽视你的提议；如果向 WikiMimo 提议邮箱内发表与 WikiMimo 无关的内容，imgradeone 也将直接无视。
