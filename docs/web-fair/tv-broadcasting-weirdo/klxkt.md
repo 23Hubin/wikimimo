@@ -1,10 +1,11 @@
 ---
 title: 快乐小课堂
 copyright: CC BY-SA 4.0 协议
+redirectFrom: /tv-broadcasting/weirdo/klxkt.html
 ---
 
 ::: info
-本条目绝大部分内容（甚至全文）摘自 NewLifeWiki 的 [快乐小课堂](https://newlifewiki.miraheze.org/wiki/快乐小课堂) 条目，内容采用 CC BY-SA 4.0 转载，并由 WikiMimo 部分修订。
+本条目绝大部分内容（甚至全文）摘自 NewLifeWiki 的 [快乐小课堂](https://newlifewiki.miraheze.org/wiki/快乐小课堂) 条目，内容采用 CC BY-SA 4.0 转载，并由 WikiMimo 部分修订。经过双方编者的修改，本条目可能和原条目有很大差别。
 :::
 
 ::: warning

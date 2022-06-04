@@ -1,6 +1,6 @@
 {
   "name": "wikimimo",
-  "version": "1.1.0",
+  "version": "1.2.0",
   "description": "personal wiki by imgradeone",
   "main": "index.js",
   "author": "imgradeone",
@@ -10,6 +10,7 @@
   },
   "devDependencies": {
     "vuepress": "^2.0.0-beta.46",
-    "vuepress-theme-hope": "^2.0.0-beta.76"
+    "vuepress-plugin-redirect": "^2.0.0-beta.77",
+    "vuepress-theme-hope": "^2.0.0-beta.77"
   }
 }

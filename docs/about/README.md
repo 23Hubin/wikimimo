@@ -2,6 +2,7 @@
 title: 关于 WikiMimo
 icon: circle-info
 copyright: CC BY-SA 4.0 协议
+editLink: false
 ---
 
 WikiMimo 创建于 2022 年 3 月 27 日，正式上线于 4 月 6 日，是一个使用 VuePress v2 驱动的、以探索兴趣领域为核心的个人势 Wiki，旨在记录互联网（和现实）上“小众”的内容，并形成一个有体系的“记事本兼资料库”。
@@ -48,8 +49,8 @@ WikiMimo 虽然是由我（imgradeone）一个人独立运营的 Wiki，但我�
 
 ### 特别鸣谢
 - Mr. Hope（VuePress Hope 主题开发者兼 VuePress 官方团队成员）及 Hope 主题的贡献者
-- Diamochang（WikiMimo 开发初期有参与分享宣传）
-- ~~王先生自媒体（并不）~~
+- [Diamochang](/tv-broadcasting/creator/diamochang.md)（WikiMimo 开发初期有参与分享宣传）
+- ~~[王先生自媒体](/web-fair/tv-broadcasting-weirdo/wxszmt.md)（并不）~~
 - 白琉
 - [Internet Archive](https://archive.org) 和 [Wayback Machine](https://web.archive.org)
 - [Archive.today](https://archive.ph)
