@@ -6,7 +6,7 @@ redirectFrom: /tv-broadcasting/youbuqi.html
 ---
 
 ::: info
-本条目绝大部分内容（甚至全文）摘自 NewLifeWiki 的 [诱捕器](https://newlifewiki.miraheze.org/wiki/诱捕器) 条目及 DiamoWiki 的 [XXX诱捕器](https://diamowiki.miraheze.org/wiki/XXX诱捕器) 条目，内容采用 CC BY-SA 4.0 转载，并由 WikiMimo 部分修订。经过双方编者的修改，本条目可能和原条目有很大差别。
+本条目绝大部分内容（甚至全文）摘自 NewLifeWiki 的 [诱捕器](https://newlifewiki.miraheze.org/wiki/诱捕器) 条目及 DiamoWiki 的 [XXX诱捕器](https://diamowiki.miraheze.org/wiki/XXX诱捕器) 条目，内容采用 CC BY-SA 4.0 转载，并由 WikiMimo 部分修订。经过各方编者的修改，本条目可能和原条目有很大差别。
 
 本文提到的“诱捕器”有异于 B 站大部分人所认为的“诱捕器”，对于此类诱捕器可查阅 [@梗指南 制作的视频](https://www.bilibili.com/video/BV1Sq4y1R7oT)。
 :::
@@ -57,7 +57,7 @@ redirectFrom: /tv-broadcasting/youbuqi.html
 > 你 们 谁 在 整 老 子 就 退 站 !  
 > [@金铁林传媒](https://space.bilibili.com/42521829) [@淮安电视放送迷](https://space.bilibili.com/501207960)
 
-2020 年 4 月 15 日，@辽源盒子传媒 发布动态 + 投票，再次求饶。（[原链接](https://t.bilibili.com/378342762868670871) / [存档](https://archive.ph/RBAwf)
+2020 年 4 月 15 日，@辽源盒子传媒 发布动态 + 投票，再次求饶。（[原链接](https://t.bilibili.com/378342762868670871) / [存档](https://archive.ph/RBAwf)）
 
 > [@夜橙留迹](https://space.bilibili.com/192911114) 我错了，上周六把你惹急眼了，你心里不好受，不理我了。我多次在QQ道歉，但你没回我，我想加你群给你道歉，你又把我移出来。你知道我天天烦你，你不知道我晚上天天梦到你拉黑我，诱捕器做了很多，我想，我自己错就错在说太多话。我求求你能理我吧。我以后不催你了，讲的是真的。[[投票]​你希望夜橙理我吗](https://t.bilibili.com/vote/h5/index/#/result?vote_id=352658&dynamic_id=378342762868670871)  
 > [@梦落阁de落染](https://space.bilibili.com/479327812) [@金铁林传媒](https://space.bilibili.com/42521829)
