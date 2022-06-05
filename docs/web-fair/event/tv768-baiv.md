@@ -18,7 +18,7 @@ copyright: CC BY-SA 3.0 协议
 
 本内容目前还在收集资料中，如需了解已经收集的资料，您可以 [查阅此处](https://github.com/imgradeone/wikimimo/blob/preview/docs/web-fair/event/tv768-baiv.md?plain=1)。
 
-本条目同样也启发了 NewLifeWiki 的 [七白之战](https://newlifewiki.miraheze.org/wiki/七白之战) 条目，WikiMimo 条目也与该条目进行了内容互换。<!-- （可是，我用的是 CC **BY**-SA 协议啊喂，你们那边基于我的条目做更改，好歹也给个标注吧？！） -->
+本条目同样也启发了 NewLifeWiki 的 [七白之战](https://newlifewiki.miraheze.org/wiki/七白之战) 条目，WikiMimo 条目也与该条目进行了内容互换。<!-- （可是，我用的是 CC **BY**-SA 协议啊喂，你们那边基于我的条目做更改，好歹也给个标注吧？！最后还得我自己去那边加） -->
 :::
 
 ## 主线
