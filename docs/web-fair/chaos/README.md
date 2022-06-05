@@ -10,4 +10,4 @@ editLink: false
 ## 内容
 
 - [在一起 就可以](huawei-together.md)
-- [诱捕器](youbuqi.md)（迁移自“广播电视 / 放送文化”）
+- [放圈诱捕器](youbuqi.md)（迁移自“广播电视 / 放送文化”）
