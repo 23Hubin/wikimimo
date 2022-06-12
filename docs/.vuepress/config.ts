@@ -44,6 +44,7 @@ export default defineUserConfig({
       mdEnhance: {
         footnote: true,
         align: true,
+        imageSize: true,
       },
     },
 

@@ -28,7 +28,7 @@ redirectFrom: /tv-broadcasting/weirdo/indev-classic.html
 ## 黑子行为
 
 - 部分创作内容疑似“借鉴”TV768。
-- 在 2021 年经常制作 [诱捕器](/tv-broadcasting/youbuqi.md)（截至 2022 年 5 月，现存的“诱捕器”相关投稿有 17 个）。
+- 在 2021 年经常制作 [诱捕器](/web-fair/chaos/youbuqi.md)（截至 2022 年 5 月，现存的“诱捕器”相关投稿有 17 个）。
 
 ## 相关链接
 

@@ -12,7 +12,7 @@ redirectFrom: /tv-broadcasting/weirdo/klxkt.html
 本条目所描述的事件或人物具有一定的争议性，有关言论或行为请勿随意模仿。
 :::
 
-快乐小课堂（原名 videologo），是放送 Juan 著名的低质视频作者。
+快乐小课堂（原名 videologo），是放送 Juan 著名（臭名昭著）的低质视频作者。
 
 ## 信息
 
@@ -36,6 +36,8 @@ redirectFrom: /tv-broadcasting/weirdo/klxkt.html
   > 现在，你需要在百事可乐，新品上市，全新升级，**《全 面 营 养》**  
   > “真的太恶心。需要在可口的可乐” —— 快乐小课堂
 3. [小 课 堂 露 脸 恰 恰 舞](https://www.bilibili.com/video/BV1pv4y1K76K)（只有露脸警告）
+4. [小课堂钟表迷工作室电视频道片头（6月1日启用）](https://www.bilibili.com/video/BV1nB4y1R7Yh)
+  > I mean, "Kands **L**national fans studio"
 
 ## 相关链接
 

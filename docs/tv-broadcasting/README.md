@@ -21,6 +21,8 @@ editLink: false
 - [放送圈的梗](meme/)
 - [广播电视优秀创作者](creator/)
 - [架空电视与直播频道](virtual-tv/)
+- [电视频道](television/)
+- [电视节目](program/)
 
 ## 已迁移条目
 
