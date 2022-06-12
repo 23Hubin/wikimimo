@@ -98,3 +98,4 @@ WikiMimo 自始至终不希望本站的内容被恶意破坏，更不希望有�
 4. **试图通过 Pull Request 破坏 WikiMimo** 的用户将直接被屏蔽，并对相应内容贴上 `won't merge`、`nonsense`、`conflict`、`unfriendly` 标签。
 5. 通过联系 imgradeone 提议时，如果出现 **辱骂、胁迫、挑拨** 等行为，imgradeone 将选择屏蔽，且不必告知。在你选择理性提议之前，请不要尝试更换联系方式再次提议。
 6. 对于使用本文未列出的方式向 WikiMimo 提议者，imgradeone 极有可能忽视你的提议；如果向 WikiMimo 提议邮箱内发表与 WikiMimo 无关的内容，imgradeone 也将直接无视。
+7. 此外，如果你选择在其他平台屏蔽 / 拉黑 imgradeone，且您之前提供的贡献违背了 WikiMimo 的方针，那么 imgradeone 有权选择双向屏蔽（包括扩大范围到邮箱、B 站账号、GitHub），且无需告知。
