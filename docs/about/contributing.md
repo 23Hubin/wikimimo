@@ -17,6 +17,8 @@ editLink: false
 ### GitHub Pull Request / 直接编辑已有条目（推荐）
 ::: note
 目前 WikiMimo 仅接受在 GitHub 上的 Pull Request，其他平台（例如 Gitee、GitLab.com）的代码仅供镜像使用。请不要在 GitHub 之外的地方申请 Pull Request。
+
+另外，为了让 WikiMimo 合并你的修改，**请务必在修改完成后提交 Pull Request**。（已经有 2 个人忘记了）
 :::
 
 1. 请首先注册一个 GitHub 账号，并尽可能正确设置你的资料。
