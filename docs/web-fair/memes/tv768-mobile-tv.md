@@ -16,7 +16,7 @@ redirectFrom: /tv-broadcsting/meme/tv768-mobile-tv.html
 
 ## 简介
 
-TV768 手机电视最初是快乐小课堂在 2021 年 11 月 2 日以冒充 TV768 名义制作的架空（自制）广告，该广告的灵感来源是 [CCTV 手机电视广告](https://www.bilibili.com/video/BV1u3411475X)，随后 TV768 开播的[《锐观天下》节目第一期](https://www.bilibili.com/video/BV1TL4y1q7sm) 吐槽的即为“TV768 手机电视”。
+TV768 手机电视最初是快乐小课堂在 2021 年 11 月 2 日以冒充 TV768 名义制作的架空（自制）广告，该广告基于 [CCTV 手机电视广告](https://www.bilibili.com/video/BV1u3411475X) 进行修改，随后 TV768 开播的[《锐观天下》节目第一期](https://www.bilibili.com/video/BV1TL4y1q7sm) 吐槽的即为“TV768 手机电视”。
 
 ## 迫害（？）
 
@@ -26,13 +26,13 @@ TV768 手机电视最初是快乐小课堂在 2021 年 11 月 2 日以冒充 TV7
 
 2022 年 1 月 27 日，TV768 工作室基于央视频的宣传广告投稿了《[小课堂视频 有品质（雾）的视频社交媒体（](https://www.bilibili.com/video/BV1mP4y1778m)》。
 
-2022 年 3 月 13 日，真·TV768 手机电视 Android 版 App（[动态](https://t.bilibili.com/637049430832316423) / [存档](https://archive.ph/ixtP9)）正式上线并开播，但受 [BaiVideo 与 TV768 解除合作事件](/web-fair/event/tv768-baiv.md) 影响，该服务于 6 月 2 日完全交由火毅网络运营，并更名为“HYTV”。
+2022 年 3 月 13 日，真·TV768 手机电视 Android 版 App（[动态](https://t.bilibili.com/637049430832316423) / [存档](https://archive.ph/ixtP9)）正式上线并开播，但受 [BaiVideo 与 TV768 解除合作事件](/web-fair/event/tv768-baiv.md) 影响，该服务于 6 月 2 日完全交由火毅网络运营，并更名为“火毅看电视”。
 
 ## 后传
 
 - 2021 年 11 月 8 日，快乐小课堂投稿了 TV768 手机电视的新版广告（[引用《锐观天下》：手 机 电 视 之 新 作](https://www.bilibili.com/video/BV1Xb4y187Re)），新的广告是由原来的小度智能屏广告加上香港 TVB Hands Up 某期节目的片段缝合而成。
 - 2022 年 1 月 26 日，快乐小课堂基于 CCTV 微视的宣传广告，冒充 QZCF（钦州放送钟表迷工作室）投稿了《[QZCF微视App宣传片](https://www.bilibili.com/video/BV1eu41117Ff)》。
-- 2022 年 5 月 27 日，快乐小课堂基于央视频的宣传广告投稿了《[768视频 有品质的视频社交媒体](https://www.bilibili.com/video/BV1S3411G7uZ)》
+- 2022 年 5 月 27 日，快乐小课堂基于央视频的宣传广告投稿了《[768视频 有品质的视频社交媒体](https://www.bilibili.com/video/BV1S3411G7uZ)》。
 
 ## 原文
 

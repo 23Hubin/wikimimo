@@ -78,7 +78,7 @@ copyright: CC BY-SA 4.0 协议
 ## Logo 标志
 
 ::: info
-图片内容引用自 NewLifeWiki。
+图片内容引用自 NewLifeWiki。相应标志版权归 TV768 工作室及 Logo 原作者所有，WikiMimo 仅以引用为目的。
 :::
 
 | 2022                                                         | 2021                                                         |
@@ -101,7 +101,7 @@ copyright: CC BY-SA 4.0 协议
 
 ## 与 TV768 相关的梗
 
-- [TV768 手机电视](/tv-broadcasting/meme/tv768-mobile-tv.md)
+- [TV768 手机电视](/web-fair/memes/tv768-mobile-tv.md)
 
 ## 相关链接
 
