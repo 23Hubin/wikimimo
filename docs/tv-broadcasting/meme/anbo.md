@@ -35,7 +35,7 @@ copyright: CC BY-SA 4.0 协议
 ## 相关二创
 
 - [真·广东人熟悉安播广告后的样子](https://www.bilibili.com/video/BV1b54y1y7fB/)
-- [公益广告-确保广播电视设施安全运行（高清重制版）](https://www.bilibili.com/video/BV1Ff4y1B71s)（二次使用需原 UP 授权）
+- [公益广告-确保广播电视设施安全运行（高清重制版）](https://www.bilibili.com/video/BV1Ff4y1B71s)（二次使用该素材需原 UP 授权，请务必注意）
 
 ## 原版视频链接
 
