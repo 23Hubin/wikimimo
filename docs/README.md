@@ -53,3 +53,4 @@ WikiMimo 与 COGNOSPHERE / HoYoverse 旗下 HoYoLAB 的吉祥物 Mimo 完全无�
 - [《羊驼赶快 414 XD》](/web-fair/event/)
 - [谁笑，谁就是麻辣香猪。](/neavetv/mucaojun.md)
 - [在一起 就可以](/web-fair/memes/huawei-together.md)
+- [小眼睛，看老师；小耳朵，竖起来；同学讲，仔细听；表扬他；顶呱呱 —— ~~AEOUGH！！！~~ 哈！！！](/tv-broadcasting/program/yinianji.md)
