@@ -46,7 +46,7 @@ WikiMimo 虽然是由我（imgradeone）一个人独立运营的 Wiki，但我�
 - [DiamoWiki](https://diamowiki.miraheze.org)（CC BY-SA 4.0）
 - 小男孩小辉
 - BaiVideo
-<!-- - 沙雕自媒体工作室 / SDTV（即便 [你的这个修改](https://github.com/233-sudo/wikimimo/commit/05fd0070150eac1006b6f2030093d5b5b663cf45) 我不会合入就是了 XD）（commit 存档：[Wayback Machine](https://web.archive.org/web/20220612111637/https://github.com/233-sudo/wikimimo/commit/05fd0070150eac1006b6f2030093d5b5b663cf45) / [Archive.today](https://archive.ph/Nbovk)） -->
+- ~~沙雕自媒体工作室 / SDTV~~（感谢您提交的修改及对我 B 站号的屏蔽。另外 [你的这个修改](https://github.com/233-sudo/wikimimo/commit/05fd0070150eac1006b6f2030093d5b5b663cf45) 我不会合入就是了 XD）（commit 存档：[Wayback Machine](https://web.archive.org/web/20220612111637/https://github.com/233-sudo/wikimimo/commit/05fd0070150eac1006b6f2030093d5b5b663cf45) / [Archive.today](https://archive.ph/Nbovk)）
 
 ### 特别鸣谢
 - Mr. Hope（VuePress Hope 主题开发者兼 VuePress 官方团队成员）及 Hope 主题的贡献者
