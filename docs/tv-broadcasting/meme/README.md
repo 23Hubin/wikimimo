@@ -18,7 +18,7 @@ editLink: false
 
 ### [王店比例](https://newlifewiki.miraheze.org/wiki/王店比例)
 
-多用于指代 16:9 的播控强行拉伸播出 4:3 内容的比例。出处暂不可考。
+似乎源于 [@王电流老张频道](https://space.bilibili.com/3480062)。多用于指代 16:9 的播控强行拉伸播出 4:3 内容的比例。出处暂不可考。
 
 ### [Ki不理](https://newlifewiki.miraheze.org/wiki/Ki不理)
 
