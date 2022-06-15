@@ -68,6 +68,8 @@ export default defineUserConfig({
     docsBranch: "preview",
     docsDir: "docs",
 
+    notFound: ["这个页面被派蒙吃……啊呸，被 imgradeone 漏掉了。", "404 小贴士：毁掉一个人的方式就是直接无脑对骂被害者", "有时候在这个鬼页面刷新，可以跳转到你该去的地方。"],
+
     navbar: [
       {
         text: "主页",
