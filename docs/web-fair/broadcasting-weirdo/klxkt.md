@@ -1,7 +1,7 @@
 ---
 title: 快乐小课堂
 copyright: CC BY-SA 4.0 协议
-redirectFrom: /tv-broadcasting/weirdo/klxkt.html
+redirectFrom: /broadcasting/weirdo/klxkt.html
 ---
 
 ::: info
@@ -31,7 +31,7 @@ redirectFrom: /tv-broadcasting/weirdo/klxkt.html
 ## 经 典 名 作（大嘘）
 
 1. [TV768手机电视开播广告宣传片（2021-至今）](https://www.bilibili.com/video/BV1hL4y1q7bM)  
-  衍生梗：[TV768 手机电视](/tv-broadcasting/meme/tv768-mobile-tv.md)
+  衍生梗：[TV768 手机电视](/broadcasting/meme/tv768-mobile-tv.md)
 2. [百事可乐20秒广告](https://www.bilibili.com/video/BV1A3411B7wb)（露脸警告）
   > 现在，你需要在百事可乐，新品上市，全新升级，**《全 面 营 养》**  
   > “真的太恶心。需要在可口的可乐” —— 快乐小课堂

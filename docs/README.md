@@ -9,7 +9,7 @@ features:
   - title: 广播电视 / 放送文化
     icon: tv
     details: 广播电视、包装、自媒体、架空电视
-    link: /tv-broadcasting/
+    link: /broadcasting/
   - title: Neave.tv
     icon: circle-play
     details: 没有上下文的“电视台”
@@ -53,6 +53,6 @@ WikiMimo 与 COGNOSPHERE / HoYoverse 旗下 HoYoLAB 的吉祥物 Mimo 完全无�
 - [《羊驼赶快 414 XD》](/web-fair/event/)
 - [谁笑，谁就是麻辣香猪。](/neavetv/mucaojun.md)
 - [在一起 就可以](/web-fair/memes/huawei-together.md)
-- [小眼睛，看老师；小耳朵，竖起来；同学讲，仔细听；表扬他；顶呱呱 —— ~~AEOUGH~~ 哈！！！](/tv-broadcasting/program/yinianji.md)[^1]
+- [小眼睛，看老师；小耳朵，竖起来；同学讲，仔细听；表扬他；顶呱呱 —— ~~AEOUGH~~ 哈！！！](/broadcasting/program/yinianji.md)[^1]
 
 [^1]: 说到 AEOUGH，其实这是 [Gimnaeng](https://space.bilibili.com/36621411) 的“口头禅”（）

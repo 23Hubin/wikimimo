@@ -13,7 +13,7 @@ WikiMimo 始终坚信优质创作者的力量可以让广播电视 / 放送文�
 
 - Diamochang
 - 美妙の二次元（已退圈）
-- MaiLi_EyE（马海 / 待商榷）
+- Radiofun-Hong
 - 黄面包HBREAD
 - Endisk
 - 影动全球
@@ -23,8 +23,8 @@ WikiMimo 始终坚信优质创作者的力量可以让广播电视 / 放送文�
 - 芒果威格（微博）
 - CG放送
 - 黃小宝
-- Radiofun-Hong
 - 魂归故里（退圈了？）
+- MaiLi_EyE（马海 / 待商榷）
 - ~~imgradeone~~ （厚颜无耻.png）
 - ……
 <!-- - BaiVideo（他又不是广播电视爱好者） -->

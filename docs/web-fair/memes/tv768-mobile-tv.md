@@ -10,9 +10,11 @@ redirectFrom: /tv-broadcsting/meme/tv768-mobile-tv.html
 
 ::: warning
 本条目有涉及争议性事件的内容。WikiMimo 是一个以事实为记录的个人势 Wiki，因此我们将选择保留 BaiVideo 部分的内容。
+
+本条目主题不是由火毅网络团队开发的 TV768 手机电视 **App**（现“火毅看电视”）。
 :::
 
-**TV768 手机电视**，是由放送圈黑子 [快乐小课堂](/web-fair/tv-broadcasting-weirdo/klxkt.md) 基于 CCTV 手机电视这一真实产品并冒充 [TV768 工作室](../self-media/tv768-studio.md) 的名义创造的梗。
+**TV768 手机电视**，是由放送圈黑子 [快乐小课堂](/web-fair/broadcasting-weirdo/klxkt.md) 基于 CCTV 手机电视这一真实产品并冒充 [TV768 工作室](../self-media/tv768-studio.md) 的名义创造的梗。
 
 ## 简介
 

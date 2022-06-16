@@ -1,7 +1,7 @@
 ---
 title: “王先生自媒体”
 copyright: CC BY-SA 4.0 协议
-redirectFrom: /tv-broadcasting/weirdo/wxszmt.html
+redirectFrom: /broadcasting/weirdo/wxszmt.html
 ---
 
 ::: info

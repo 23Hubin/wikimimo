@@ -3,6 +3,7 @@ title: WikiMimo 贡献指南
 icon: pen
 copyright: CC BY-SA 4.0 协议
 editLink: false
+next: ./block-guideline.md
 ---
 
 作为一个完全由个人独立运营的 Wiki，WikiMimo 虽坚持“以事实为根本”，但仍旧无法做到 100% 的准确、客观（尤其是某些条目已经被我明确标注“不可避免地具有极其强烈的主观性”），因此我将始终欢迎更多人为 WikiMimo 做出真心的贡献。
@@ -11,14 +12,14 @@ editLink: false
 目前，您可以通过 GitHub Pull Request 或联系提议的方式向 WikiMimo 提议、贡献。
 
 ::: warning
-无论如何，在向 WikiMimo 提交贡献时，请务必首先阅读 [内容与代码规范]()、[注意事项](#注意事项) 和 [防破坏屏蔽方针](#防破坏屏蔽方针)。<!--  待补充 -->
+无论如何，在向 WikiMimo 提交贡献时，请务必首先阅读 [内容与代码规范](#内容与代码规范)、[注意事项](#注意事项) 和 [防破坏屏蔽方针](block-guideline.md)。
 :::
 
 ### GitHub Pull Request / 直接编辑已有条目（推荐）
 ::: note
 目前 WikiMimo 仅接受在 GitHub 上的 Pull Request，其他平台（例如 Gitee、GitLab.com）的代码仅供镜像使用。请不要在 GitHub 之外的地方申请 Pull Request。
 
-另外，为了让 WikiMimo 合并你的修改，**请务必在修改完成后提交 Pull Request**。（已经有 2 个人忘记了）
+另外，为了让 WikiMimo 合并你的修改，**请务必在修改完成后提交 Pull Request**。（已经有 2 个人忘记了）<!-- 有一个还被屏蔽了 XD -->
 :::
 
 1. 请首先注册一个 GitHub 账号，并尽可能正确设置你的资料。
@@ -86,21 +87,4 @@ author: 条目作者
 ## 内容与代码规范
 - WikiMimo 使用 CC BY-SA 4.0（也可能是 3.0）作为主内容协议，这就意味着，您在 WikiMimo 上做出的贡献将是 **可被转载并二次创作的**，因此请慎重考虑。如果您不想您的内容被商用，那您可以考虑使用 CC BY-NC-SA 协议，但请在文章开头和 Frontmatter 处注明。
 - 修改或创建内容时，请尽可能依照[《少数派写作排版指南》](https://sspai.com/post/37815) 和[《中文文案排版指北》](https://github.com/mzlogin/chinese-copywriting-guidelines)来规范你的内容。
-- 请避免将受版权保护的内容“搬运”到 WikiMimo 中。此外，由于百度百科的版权限制（以及极其低质的部分条目），我们不希望，也禁止任何人将百度百科的内容“搬运”到 WikiMimo 中。
-
-## 防破坏屏蔽方针
-WikiMimo 自始至终不希望本站的内容被恶意破坏，更不希望有恶意用户持续进行一系列骚扰、破坏。因此，我们设定了如下方针。
-
-1. 在 Pull Request 或 Issue 中提交 **垃圾内容或刷屏** 的用户，imgradeone 将拒绝请求并关闭该 Pull Request 或关闭相应 Issue，并贴上 `won't merge` 和 `nonsense` 标签。单用户累计有 5 条 PR / Issue 被贴上 `nonsense` 标签后将被 imgradone 屏蔽。行为严重且违反 [GitHub 社区指导方针](https://docs.github.com/cn/site-policy/github-terms/github-community-guidelines) 者，imgradeone 也将向 GitHub 举报。  
-2. 在 Pull Request 或 Issue 中提交 **违背事实、夸大事实内容** 的用户，imgradeone 将拒绝请求并关闭该 Pull Request 或关闭相应 Issue，并贴上 `won't merge` 和 `conflict` 标签，并可能根据您的社区行为选择是否屏蔽。
-3. 在 Pull Request 或 Issue 中提交 **辱骂他人或违反中国大陆法律内容** 的用户，imgradeone 将拒绝请求并关闭该 Pull Request 或关闭相应 Issue，并贴上 `won't merge`、`nonsense`、`conflict`、`unfriendly` 标签，并按事态严重性选择是否屏蔽或举报。这可能是累计 3 次，也可能是直接屏蔽。
-4. **试图通过 Pull Request 破坏 WikiMimo** 的用户将直接被屏蔽，并对相应内容贴上 `won't merge`、`nonsense`、`conflict`、`unfriendly` 标签。
-5. 通过联系 imgradeone 提议时，如果出现 **辱骂、胁迫、挑拨** 等行为，imgradeone 将选择屏蔽，且不必告知。在你选择理性提议之前，请不要尝试更换联系方式再次提议。
-6. 对于使用本文未列出的方式向 WikiMimo 提议者，imgradeone 极有可能忽视你的提议；如果向 WikiMimo 提议邮箱内发表与 WikiMimo 无关的内容，imgradeone 也将直接无视。
-7. 此外，如果你选择在其他平台屏蔽 / 拉黑 imgradeone，且您之前提供的贡献违背了 WikiMimo 的方针，那么 imgradeone 有权选择双向屏蔽（包括扩大范围到邮箱、B 站账号、GitHub），且无需告知。
-
-::: info 提示
-被屏蔽的用户将无法继续在 GitHub 上继续与 imgradeone 执行任何互动，包括向 WikiMimo 提交代码。关于被屏蔽后不能做的事情，可参阅 [GitHub 的帮助文档](https://docs.github.com/cn/communities/maintaining-your-safety-on-github/blocking-a-user-from-your-personal-account)。
-
-**但，请您务必了解，被 imgradeone 屏蔽并不意味着您无法继续引用 WikiMimo 的内容。** 只要您遵循各页面底部注明的协议（通常是 CC BY-SA 4.0），您可以自由地引用 WikiMimo 的内容，并对其进行修改（**但如果做出修改，则必须做出修改申明**，我不希望歪曲内容造成的误导被归咎到我身上。同样，这也是 CC BY-SA 协议的要求。如果你不知道如何正确引用，请参考 [Creative Commons 提供的署名案例](https://wiki.creativecommons.org/wiki/Best_practices_for_attribution)（英文）。）
-:::
+- 请尽可能避免将受版权保护的内容“搬运”到 WikiMimo 中。此外，由于百度百科的版权限制（以及极其低质的部分条目），我们不希望，也禁止任何人将百度百科的内容“搬运”到 WikiMimo 中。

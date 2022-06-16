@@ -1,7 +1,7 @@
 ---
 title: 李益轩
 copyright: CC BY-SA 4.0 协议
-redirectFrom: /tv-broadcasting/weirdo/liyixuan.html
+redirectFrom: /broadcasting/weirdo/liyixuan.html
 ---
 
 ::: info

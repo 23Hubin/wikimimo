@@ -16,7 +16,7 @@ WikiMimo 的创立受到了 [DiamoWiki](https://diamowiki.miraheze.org)、[NewLi
 ## 版块
 目前 WikiMimo 运营着如下版块：
 
-- [广播电视 / 放送文化](/tv-broadcasting/)：以记录广播电视内容与广播电视爱好者为核心，根植广播电视，服务真正的爱好者，探索优秀创作，记录电视界变迁（soon），让更多人真正认识广播电视文化的魅力。（所以我才把“放送圈黑子”分类移动到了“网络异闻录”）
+- [广播电视 / 放送文化](/broadcasting/)：以记录广播电视内容与广播电视爱好者为核心，根植广播电视，服务真正的爱好者，探索优秀创作，记录电视界变迁（soon），让更多人真正认识广播电视文化的魅力。（所以我才把“放送圈黑子”分类移动到了“网络异闻录”）
 - [Neave.tv](/neavetv/)：专门记录由 Paul Neave 开发的无意义视频小网站 Neave.tv 的历史和解谜。
 - [网络异闻录](/web-fair/)：记录各种网络上（或现实生活中）的逸闻、事件、人物、梗，为“记录一切”而生。（未来该版块还将衍生出视频节目。）
 
@@ -50,8 +50,8 @@ WikiMimo 虽然是由我（imgradeone）一个人独立运营的 Wiki，但我�
 
 ### 特别鸣谢
 - Mr. Hope（VuePress Hope 主题开发者兼 VuePress 官方团队成员）及 Hope 主题的贡献者
-- [Diamochang](/tv-broadcasting/creator/diamochang.md)（WikiMimo 开发初期有参与分享宣传）
-- ~~[王先生自媒体](/web-fair/tv-broadcasting-weirdo/wxszmt.md)（并不）~~
+- [Diamochang](/broadcasting/creator/diamochang.md)（WikiMimo 开发初期有参与分享宣传）
+- ~~[王先生自媒体](/web-fair/broadcasting-weirdo/wxszmt.md)（并不）~~
 - 白琉
 - [Internet Archive](https://archive.org) 和 [Wayback Machine](https://web.archive.org)
 - [Archive.today](https://archive.ph)
