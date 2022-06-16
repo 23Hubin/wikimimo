@@ -79,7 +79,7 @@ export default defineUserConfig({
       {
         text: "版块",
         icon: "grip",
-        children: ["/tv-broadcasting/", "/neavetv/", "/web-fair/"],
+        children: ["/broadcasting/", "/neavetv/", "/web-fair/"],
       },
       {
         text: "分支",
@@ -103,7 +103,7 @@ export default defineUserConfig({
     ],
 
     sidebar: {
-      "/tv-broadcasting/": "structure",
+      "/broadcasting/": "structure",
       "/neavetv/": "structure",
       "/web-fair/": "structure",
       "/about/": "structure",

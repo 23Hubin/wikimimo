@@ -8,7 +8,7 @@ editLink: false
 本分类下的网络自媒体指代的是 **视频内容及包装已经形成类似于一般电视台的体系，且相对有组织性**（即便是个人运营）的网络自媒体。
 
 ::: warning
-含有黑子性质的网络自媒体不会被收录到此分类中，而是会转到 [放送圈黑子](/web-fair/tv-broadcasting-weirdo/README.md) 分类。
+含有黑子性质的网络自媒体不会被收录到此分类中，而是会转到 [放送圈黑子](/web-fair/broadcasting-weirdo/README.md) 分类。
 :::
 
 ## 收录条目

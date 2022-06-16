@@ -11,7 +11,7 @@ editLink: false
 
 - [事件集](event/)
 - [混沌之境](chaos/)
-- [放送圈黑子](tv-broadcasting-weirdo/)
+- [放送圈黑子](broadcasting-weirdo/)
 - [好怪的梗](memes/)
 - 怪人与黑子（？）
 
