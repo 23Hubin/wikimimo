@@ -1,7 +1,9 @@
 ---
 title: Indev_Classic
 copyright: CC BY-SA 4.0 协议
-redirectFrom: /broadcasting/weirdo/indev-classic.html
+redirectFrom:
+  - /tv-broadcasting/weirdo/indev-classic.html
+  - /web-fair/tv-broadcasting-weirdo/indev-classic.html
 ---
 
 ::: warning

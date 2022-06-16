@@ -54,5 +54,6 @@ WikiMimo 与 COGNOSPHERE / HoYoverse 旗下 HoYoLAB 的吉祥物 Mimo 完全无�
 - [谁笑，谁就是麻辣香猪。](/neavetv/mucaojun.md)
 - [在一起 就可以](/web-fair/memes/huawei-together.md)
 - [小眼睛，看老师；小耳朵，竖起来；同学讲，仔细听；表扬他；顶呱呱 —— ~~AEOUGH~~ 哈！！！](/broadcasting/program/yinianji.md)[^1]
+- [我没让你翻注释吧？！](https://github.com/imgradeone/wikimimo)
 
 [^1]: 说到 AEOUGH，其实这是 [Gimnaeng](https://space.bilibili.com/36621411) 的“口头禅”（）

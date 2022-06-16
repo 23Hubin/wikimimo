@@ -1,7 +1,9 @@
 ---
 title: “王先生自媒体”
 copyright: CC BY-SA 4.0 协议
-redirectFrom: /broadcasting/weirdo/wxszmt.html
+redirectFrom:
+  - /tv-broadcasting/weirdo/wxszmt.html
+  - /web-fair/tv-broadcasting-weirdo/wxzsmt.html
 ---
 
 ::: info
@@ -24,7 +26,7 @@ redirectFrom: /broadcasting/weirdo/wxszmt.html
 - 他自己开设了以“康视”为核心的一系列架空电视及放送组织，如“康视广播电视总台（KSTV）”、“康视钟表迷工作室（KSCF）”，很不幸，质量都很低，而且都特别喜欢用“😭”、“😂”这两个 emoji 作为“台标”。
 - 混迹于 Gacha Club 圈。
 - 口齿不清，语言不通顺。
-- 真名为郭继尧（本部分被其本人自行公开，故暂时恢复完全显示）。
+- 真名为郭继尧。<!-- 由不得我哈，ta 自己承认的，https://archive.ph/vWaF2，请 -->
 - 自称 2009 年 3 月 18 日出生。
 
 ## 黑子行为

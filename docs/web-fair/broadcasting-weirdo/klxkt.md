@@ -1,7 +1,9 @@
 ---
 title: 快乐小课堂
 copyright: CC BY-SA 4.0 协议
-redirectFrom: /broadcasting/weirdo/klxkt.html
+redirectFrom:
+  - /tv-broadcasting/weirdo/klxkt.html
+  - /web-fair/tv-broadcasting-weirdo/klxkt.html
 ---
 
 ::: info
