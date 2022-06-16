@@ -1,7 +1,9 @@
 ---
 title: 强哥放送钟表迷
 copyright: CC BY-SA 4.0 协议
-redirectFrom: /broadcasting/weirdo/qiangge.html
+redirectFrom:
+  - /tv-broadcasting/weirdo/qiangge.html
+  - /web-fair/tv-broadcasting-weirdo/qiangge.html
 ---
 
 ::: warning
@@ -16,7 +18,7 @@ redirectFrom: /broadcasting/weirdo/qiangge.html
 
 - 他是由放送圈黑子组成的团体“雷电团”的团长，而雷电团成员基本由放送圈黑子组成。但 ~~可喜可贺的是（确信）~~ 雷电团已于 2022 年 5 月 15 日宣布解散。
 - 属于“D.C.P剿佐军”成员（由 @DaddyDearest 创建的，含有网暴、恶俗性质的团体）。
-- 从 2022 年 1 月 18 日起参与过针对 @花园多惠Official（相对知名的邦邦人）的大型网络暴力，发布暴力言论数量已经达到“主力”级别。虽然 3 月 17 日 [宣布向 @花园多惠Official 道歉](https://t.bilibili.com/638548885514485785)，但 3 月 31 日后又突发恶疾继续网暴，此后甚至在评论区号召炸毁百度贴吧 BanG Dream! 吧[^1]。5 月 2 日，此用户再一次发起对“多惠”的攻势。5 月 15 日 11:09 发布 [向 @花园多惠Official 的道歉动态](https://t.bilibili.com/660333170016649218)（[备份](https://archive.ph/VoX9g)）。5 月 28 日，强哥心生盗取 @花园多惠Official 直播间并用于 QGBS 直播的想法。
+- 从 2022 年 1 月 18 日起参与过针对 @花园多惠Official（相对知名的邦邦人）的大型网络暴力，发布暴力言论数量已经达到“主力”级别。虽然 3 月 17 日 [宣布向 @花园多惠Official 道歉](https://t.bilibili.com/638548885514485785)，但 3 月 31 日后又突发恶疾继续网暴，此后甚至在评论区号召炸毁百度贴吧 BanG Dream! 吧[^1]。5 月 2 日，此用户再一次发起对“多惠”的攻势。5 月 15 日 11:09 发布 [向 @花园多惠Official 的道歉动态](https://t.bilibili.com/660333170016649218)（[备份](https://archive.ph/VoX9g)）。5 月 28 日，强哥心生盗取 @花园多惠Official 直播间并用于 QGBS 直播的想法。（求道歉次数.png）
 - 此外，5 月 22 日，强哥与另一位邦圈人士 Kanon 发生冲突，并对 Kanon 发起网暴。
 
 > 指南：花园多惠的老窝，就是百度贴吧的BanGDream吧，给我炸了！  
@@ -34,7 +36,7 @@ redirectFrom: /broadcasting/weirdo/qiangge.html
 
 > 诱捕器，起源于2020年3月，一个大佬给李益轩（红石放送钟表迷）做了一个诱捕器，然后放送圈开始了一种新的反黑方式，现在就是一些瞎反黑的用这个来瞎反黑，根本就不知道真正的含义是什么  
 > —— 强哥放送钟表迷 于 2022 年 2 月 11 日的 [动态转发](https://t.bilibili.com/625968848922780985)  
-> （笑死，自己做那么多诱捕器还好意思讲？而且起源都错了）
+> （笑死，自己做那么多诱捕器还好意思讲？而且起源都错了。[放圈诱捕器](/web-fair/chaos/youbuqi.md) 条目，请）
 
 - 经常制作 [诱捕器](/web-fair/chaos/youbuqi.md)（截至 2022 年 5 月，现存的“诱捕器”相关投稿有 15 个）。<!-- 4 月：14 个，5 月新增 《【补档】蕾姆REM自媒体诱捕器》（BV1M3411N7CE）-->
 - 架空电视视频质量极低。

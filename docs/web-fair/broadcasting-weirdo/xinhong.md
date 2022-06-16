@@ -1,7 +1,9 @@
 ---
 title: 新虹 / HONG233
 copyright: CC BY-SA 4.0 协议
-redirectFrom: /broadcasting/weirdo/xinhong.html
+redirectFrom:
+  - /tv-broadcasting/weirdo/xinhong.html
+  - /web-fair/tv-broadcasting-weirdo/xinhong.html
 ---
 
 ::: warning

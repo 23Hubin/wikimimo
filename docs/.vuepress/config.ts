@@ -10,7 +10,7 @@ export default defineUserConfig({
   lang: 'zh-CN',
   title: 'WikiMimo',
   description: 'A personal wiki by imgradeone',
-  head:[
+  head: [
     [
       "link",
       {
@@ -35,6 +35,24 @@ export default defineUserConfig({
 
   theme: hopeTheme({
     hostname,
+    
+    locales: {
+      "/": {
+        routeLocales: {
+          "404msg": [
+            "这个页面被某只飞行矮堇瓜吃……啊呸，被 imgradeone 漏掉了。",
+            "404 小贴士：毁掉一个人的方式就是直接无脑对骂被害者。",
+            "404 小贴士：有时候在这个鬼页面刷新，可以跳转到你该去的地方。",
+            "终有一日会寻找到的。",
+            "404 小贴士：旧链接突然变成 deadlink 这回事，可以试试这几个方法：把链接里的“tv-broadcasting”换成“broadcasting”。",
+            "可是，WikiMimo 又不仅仅是“放送文化”Wiki 啊……但还是找不到页面就是了。",
+            "404 小贴士：如果原来这里好端端的，那就是我摆烂了，懒得做重定向。",
+            "虽然是 404，但，恕我甩一句话：放圈反黑，越反越黑。",
+            "真的有人会不断刷新，收集 404 文案吗？"
+          ],
+        },
+      }
+    },
 
     logo: "logo.svg",
 
@@ -114,3 +132,4 @@ export default defineUserConfig({
     },
   },),
 });
+

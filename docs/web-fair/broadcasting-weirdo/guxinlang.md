@@ -1,7 +1,9 @@
 ---
 title: 孤心狼guxinlang大人
 copyright: CC BY-SA 4.0 协议
-redirectFrom: /broadcasting/weirdo/guxinlang.html
+redirectFrom:
+  - /tv-broadcasting/weirdo/guxinlang.html
+  - /web-fair/tv-broadcasting-weirdo/guxinlang.html
 ---
 
 ::: info

@@ -26,7 +26,7 @@ editLink: false
 
 ## 已迁移条目
 
-- [诱捕器](youbuqi.md)（已迁移至“网络异闻录”）
+- [放圈诱捕器](youbuqi.md)（已迁移至“网络异闻录”）
 - [放送圈黑子](/web-fair/broadcasting-weirdo/)（已迁移至“网络异闻录”）
 
 ## 待创建条目

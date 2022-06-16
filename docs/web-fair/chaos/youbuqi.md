@@ -2,7 +2,8 @@
 title: 放圈诱捕器
 icon: bomb
 copyright: CC BY-SA 4.0 协议
-redirectFrom: /broadcasting/youbuqi.html
+redirectFrom:
+  - /tv-broadcasting/youbuqi.html
 ---
 
 ::: info
