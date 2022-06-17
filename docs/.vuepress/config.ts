@@ -118,6 +118,17 @@ export default defineUserConfig({
         link: "/about/",
         icon: "circle-info",
       },
+      {
+        text: "项目",
+        icon: "diagram-project",
+        children: [
+          {
+            text: "WikiMimo Archive",
+            icon: "box-archive",
+            link: "https://archive.wikimimo.com/",
+          },
+        ],
+      },
     ],
 
     sidebar: {
