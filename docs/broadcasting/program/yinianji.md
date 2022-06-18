@@ -150,7 +150,7 @@ copyright: CC BY-SA 4.0 协议
 
 [imgradeone 于 2020 年发布的模拟器试玩视频](https://www.bilibili.com/video/BV16K4y1E7Rv)
 
-> 相应存档内容将在 WikiMimo Archive 上线后提供。
+[WikiMimo Archive 提供的 Android 版安装包存档](https://archive.wikimimo.com/id/MARC-S0001-eec6e30)
 
 ### 图书
 
