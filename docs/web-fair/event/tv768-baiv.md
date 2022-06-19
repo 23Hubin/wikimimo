@@ -121,11 +121,12 @@ copyright: CC BY-SA 3.0 协议
 - 6月1日 出于维权成本考虑，火毅方决定暂停维权，事件告一段落，同时 TV768 直播频道群组也被解散。同日，火毅方及 TV768、BaiVideo 发表联合声明，称 TV768 与火毅方的合作正式终止。同日，多家自媒体频道宣布罢工结束，并举行庆祝 TV768 与火毅团队解除合作的一系列活动。
 > 联合声明链接：[TV768 声明](https://t.bilibili.com/666775547992342533)（[存档](https://archive.ph/3bqZa)） / [BaiVideo 声明 1](https://t.bilibili.com/666767151330230290)（[存档](https://archive.ph/Hp1ye)） / [BaiVideo 声明 2](https://t.bilibili.com/666772442721550339)（[存档](https://archive.ph/ZrZOn)）
 - 6月3日 “TV768 直播频道”与“TV768 手机电视” App 正式交由火毅网络完全运营，相应服务已改名为 HYTV，App 改名为“火毅看电视（HYKDS）”（虽然火毅 HYTV 的 Logo 有点像 TV768。BaiVideo 向 imgradeone 声明，HYTV 的 Logo 比 TV768 的新 Logo 做得早）。值得注意的是，HYTV 宣传片中仍存在内涵高海的内容（指“高海最爱[^2]”这几个字）。
-- 6月13日 BaiVideo 的网站 `*.baivideo.site`（所有子域名）被他人恶意删库，文件与网站全部被清空。<!--（可是 BaiVideo 在 6 月 17 日才发现）-->
+- 6月13日 BaiVideo 的网站 `*.baivideo.site`（所有子域名）被他人恶意删库，文件与网站全部被清空。[^4]<!--（可是 BaiVideo 在 6 月 17 日才发现）-->
 
 [^1]: 摘自 NewLifeWiki [TV768工作室](https://newlifewiki.miraheze.org/wiki/TV768工作室) 条目
 [^2]: 关于“高海最爱”的音游：高海本人并非音游玩家。至于“高海最爱”，请参考 @高海自媒体工作室 前期针对 BaiVideo 的聊天发言：“打个音游还会炫耀、炫富是吧”（我不知道高海想表达的是“打音游、炫耀、炫富这三件事是单纯的并列关系”还是“打音游有炫耀、炫富嫌疑”<!-- 但 BaiVideo “炫富”这件事确实没得洗 -->）
-[^3]: [修改反馈来源](https://github.com/imgradeone/wikimimo/issues/6)
+[^3]: [修改反馈来源](https://github.com/imgradeone/wikimimo/issues/6) / 存档（[Internet Archive](https://web.archive.org/web/20220619124635/https://github.com/imgradeone/wikimimo/issues/6) / [Archive.today](https://archive.ph/ToDoa)）
+[^4]: [公告内容](https://t.bilibili.com/672910161566760976) / [存档](https://archive.ph/0f3A2)
 
 <!-- 注释，目前大部分内容暂时放在注释 -->
 
