@@ -152,6 +152,8 @@ copyright: CC BY-SA 4.0 协议
 
 [WikiMimo Archive 提供的 Android 版安装包存档](https://archive.wikimimo.com/id/MARC-S0001-eec6e30)
 
+[![](/archive-button.svg =x100)](https://archive.wikimimo.com/id/MARC-S0001-eec6e30)
+
 ### 图书
 
 ::: info
