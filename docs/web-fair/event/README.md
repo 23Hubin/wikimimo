@@ -15,3 +15,4 @@ editLink: false
 - A-SOUL “5.10事件”
 - “TNYSO”偷窥 imgradeone Twitter 私号并清空其 Spotify 歌单事件
 - elementary OS “跑路”事件
+- “放加之战”
